@@ -1,0 +1,226 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ZenTest (4.8.3)
+    addressable (2.2.8)
+    autotest (4.4.6)
+      ZenTest (>= 4.4.1)
+    autotest-inotify (0.0.6)
+      autotest (>= 4.2.4)
+      rb-inotify
+    awesome_print (1.0.2)
+    backports (2.6.7)
+    barista (1.3.0)
+      coffee-script (~> 2.2)
+    bcrypt-ruby (3.0.1)
+    boson (1.2.4)
+    capistrano (2.14.1)
+      highline
+      net-scp (>= 1.0.0)
+      net-sftp (>= 2.0.0)
+      net-ssh (>= 2.0.14)
+      net-ssh-gateway (>= 1.1.0)
+    clipboard (1.0.1)
+    cloudfiles (1.5.0.1)
+      json
+    coderay (1.0.8)
+    coffee-script (2.2.0)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.4.0)
+    daemons (1.1.9)
+    data_mapper (1.2.0)
+      dm-aggregates (~> 1.2.0)
+      dm-constraints (~> 1.2.0)
+      dm-core (~> 1.2.0)
+      dm-migrations (~> 1.2.0)
+      dm-serializer (~> 1.2.0)
+      dm-timestamps (~> 1.2.0)
+      dm-transactions (~> 1.2.0)
+      dm-types (~> 1.2.0)
+      dm-validations (~> 1.2.0)
+    data_objects (0.10.11)
+      addressable (~> 2.1)
+    diff-lcs (1.1.3)
+    dm-aggregates (1.2.0)
+      dm-core (~> 1.2.0)
+    dm-constraints (1.2.0)
+      dm-core (~> 1.2.0)
+    dm-core (1.2.0)
+      addressable (~> 2.2.6)
+    dm-do-adapter (1.2.0)
+      data_objects (~> 0.10.6)
+      dm-core (~> 1.2.0)
+    dm-migrations (1.2.0)
+      dm-core (~> 1.2.0)
+    dm-mysql-adapter (1.2.0)
+      dm-do-adapter (~> 1.2.0)
+      do_mysql (~> 0.10.6)
+    dm-serializer (1.2.2)
+      dm-core (~> 1.2.0)
+      fastercsv (~> 1.5)
+      json (~> 1.6)
+      json_pure (~> 1.6)
+      multi_json (~> 1.0)
+    dm-timestamps (1.2.0)
+      dm-core (~> 1.2.0)
+    dm-transactions (1.2.0)
+      dm-core (~> 1.2.0)
+    dm-types (1.2.2)
+      bcrypt-ruby (~> 3.0)
+      dm-core (~> 1.2.0)
+      fastercsv (~> 1.5)
+      json (~> 1.6)
+      multi_json (~> 1.0)
+      stringex (~> 1.4)
+      uuidtools (~> 2.1)
+    dm-validations (1.2.0)
+      dm-core (~> 1.2.0)
+    do_mysql (0.10.11)
+      data_objects (= 0.10.11)
+    domain_name (0.5.7)
+      unf (~> 0.0.3)
+    eventmachine (1.0.0)
+    every_day_irb (1.4.0)
+    execjs (1.4.0)
+      multi_json (~> 1.0)
+    fakeweb (1.3.0)
+    fancy_irb (0.7.3)
+      paint (>= 0.8.1)
+      unicode-display_width (>= 0.1.1)
+    fastercsv (1.5.5)
+    ffi (1.3.1)
+    g (1.7.1)
+    haml (3.1.7)
+    highline (1.6.15)
+    hirb (0.7.0)
+    interactive_editor (0.0.10)
+      spoon (>= 0.0.1)
+    irbtools (1.4.0)
+      awesome_print (~> 1.0.2)
+      boson (~> 1.2.4)
+      clipboard (~> 1.0.1)
+      coderay (~> 1.0.8)
+      every_day_irb (>= 1.4.0)
+      fancy_irb (>= 0.7.3)
+      g (>= 1.7.1)
+      hirb (~> 0.7.0)
+      interactive_editor (>= 0.0.10)
+      method_locator (>= 0.0.4)
+      method_source (>= 0.8.1)
+      methodfinder (>= 1.2.5)
+      ori (~> 0.1.0)
+      paint (>= 0.8.5)
+      wirb (>= 0.4.3)
+      zucker (>= 12.1)
+    json (1.7.6)
+    json_pure (1.7.6)
+    mechanize (2.5.1)
+      domain_name (~> 0.5, >= 0.5.1)
+      mime-types (~> 1.17, >= 1.17.2)
+      net-http-digest_auth (~> 1.1, >= 1.1.1)
+      net-http-persistent (~> 2.5, >= 2.5.2)
+      nokogiri (~> 1.4)
+      ntlm-http (~> 0.1, >= 0.1.1)
+      webrobots (~> 0.0, >= 0.0.9)
+    method_locator (0.0.4)
+    method_source (0.8.1)
+    methodfinder (1.2.5)
+    mime-types (1.19)
+    multi_json (1.5.0)
+    net-http-digest_auth (1.2.1)
+    net-http-persistent (2.8)
+    net-scp (1.0.4)
+      net-ssh (>= 1.99.1)
+    net-sftp (2.0.5)
+      net-ssh (>= 2.0.9)
+    net-ssh (2.6.3)
+    net-ssh-gateway (1.1.0)
+      net-ssh (>= 1.99.1)
+    nokogiri (1.5.6)
+    ntlm-http (0.1.1)
+    ori (0.1.0)
+    paint (0.8.5)
+    rack (1.4.4)
+    rack-cache (1.2)
+      rack (>= 0.4)
+    rack-protection (1.3.2)
+      rack
+    rack-test (0.6.2)
+      rack (>= 1.0)
+    rake (10.0.3)
+    rb-inotify (0.9.0)
+      ffi (>= 0.5.0)
+    rdiscount (1.6.8)
+    rspec (2.12.0)
+      rspec-core (~> 2.12.0)
+      rspec-expectations (~> 2.12.0)
+      rspec-mocks (~> 2.12.0)
+    rspec-core (2.12.2)
+    rspec-expectations (2.12.1)
+      diff-lcs (~> 1.1.3)
+    rspec-mocks (2.12.1)
+    shotgun (0.9)
+      rack (>= 1.0)
+    sinatra (1.3.3)
+      rack (~> 1.3, >= 1.3.6)
+      rack-protection (~> 1.2)
+      tilt (~> 1.3, >= 1.3.3)
+    sinatra-contrib (1.3.2)
+      backports (>= 2.0)
+      eventmachine
+      rack-protection
+      rack-test
+      sinatra (~> 1.3.0)
+      tilt (~> 1.3)
+    sinatra-partial (0.4.0)
+      sinatra
+    spoon (0.0.1)
+    stringex (1.5.1)
+    thin (1.5.0)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
+    thor (0.16.0)
+    tilt (1.3.3)
+    unf (0.0.5)
+      unf_ext
+    unf_ext (0.0.5)
+    unicode-display_width (0.1.1)
+    uuidtools (2.1.3)
+    webrobots (0.0.13)
+    will_paginate (3.0.4)
+    will_paginate-bootstrap (0.2.2)
+      will_paginate (>= 3.0.3)
+    wirb (1.0.1)
+      paint
+    zucker (12.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  autotest
+  autotest-inotify
+  barista
+  capistrano
+  cloudfiles
+  data_mapper
+  dm-mysql-adapter
+  fakeweb
+  haml
+  irbtools
+  json
+  mechanize
+  rack-cache
+  rake
+  rdiscount
+  rspec
+  shotgun
+  sinatra
+  sinatra-contrib
+  sinatra-partial
+  thin
+  thor
+  will_paginate
+  will_paginate-bootstrap

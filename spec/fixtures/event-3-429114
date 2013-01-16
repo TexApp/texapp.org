@@ -1,0 +1,441 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSESSIONIDSQCDADRC=JDDOELCCMLACLMICOEIANEHF; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 15 Jan 2013 01:23:13 GMT
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<SCRIPT LANGUAGE="JavaScript"><!--
+function openWindow(windowName, urlLoc, w, h, top, left) { 
+	windowName = window.open("",windowName, 'scrollbars=yes,status=no,width=' + w + ',height=' + h + ',menubar=no,resizable=no,top=' + top + ',left=' + left + ',screenX=0,screenY=0');
+	windowName.location.href = urlLoc;
+	windowName.focus();
+	if (windowName.opener == null) windowName.opener = self;
+}
+//--></SCRIPT>
+<HTML><HEAD>
+<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<!--MAKE SURE YOU CHANGE THE META TAGS BASED ON YOUR PAGE-->
+<META NAME="title" CONTENT="Texas 3rd Court of Appeals">
+<META NAME="description" CONTENT="Official website for 3rd Court of Appeals of Texas.">
+<META NAME="keywords" CONTENT="3rd Court of Appeals, Texas appellate judiciary, Texas judiciary court, judicial system appellate court, Texas judicial court, Texas supreme civil court, TX 3rd Court of Appeals">
+<META NAME="category" CONTENT="Government">
+<META NAME="author" CONTENT="Texas Office of Court Administration">
+<META NAME="copyright" CONTENT="Texas Judiciary Online - 2006">
+<META NAME="rating" CONTENT="General">
+<META http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" for "http://www.courts.state.tx.us/" on "2000.04.11T20:10-0800" r (n 0 s 0 v 0 l 0))'> 
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<link media=all href="../css/styles2.css" type="text/css" rel="stylesheet">
+<META content="MSHTML 6.00.2900.2873" name=GENERATOR>
+
+		<style type="text/css">
+			@import "../css/nav.css";
+			@import "../css/oca.css";
+		</style>
+
+
+
+</HEAD>
+
+<TITLE>Texas Courts Online - Third of Court Appeals Case Management</TITLE>
+<DIV></DIV>
+
+<DIV id=wrapper>
+<DIV id=container>
+<DIV id=header>
+<DIV id=header2>
+<DIV id=header3>
+
+
+
+<table id="logo">
+<tr>
+<!--left picture-->
+	<td>
+<img width='124' height='100' alt='Ector  County courthouse' title='Ector  County courthouse' src='../images/courthouseam/Ector.jpg'>
+	</td>
+
+<!--middle picture-->
+	<td><img width='124' height='100' alt='Historical Supreme Court Bench ' title='Historical Supreme Court Bench ' src='../images/arch/Historical_Supreme_Court_Bench.jpg'></td>
+
+<!--right picture-->	
+	<td>
+<img width='124' height='100' alt='Oldham  County courthouse' title='Oldham  County courthouse' src='../images/courthousenz/Oldham.jpg'>
+	</td>
+</tr>
+</table>
+
+<div id=nav-header>
+<p>
+
+
+
+<!-- Below is an invisible link to skip to maintcomenu
+<a class="skiplink" href="#maintcomenu">Skip sub navigation menu for Texas Courts Online, go to main navigation menu for Texas Courts Online </a> -->
+
+<a href="http://www.courts.state.tx.us/"><strong>TCO: Tx Courts Online Home</strong></a><br />
+<a href="http://www.courts.state.tx.us/encyclopedia.asp"><strong>A-Z Index</strong></a> | <strong><a href="http://www.courts.state.tx.us/faqs.asp">FAQs</a></strong> | <a href="http://www.courts.state.tx.us/search.asp"><strong>Search</strong></a>
+<!--
+
+<A href="http://www.courts.state.tx.us/about/contact.asp">Contact Us</A> | <A href="http://www.courts.state.tx.us/search.asp">Search</A> | <A href="http://www.courts.state.tx.us/sitemap.asp">Site Map</A>
+-->
+
+<br />
+<span class="tco">Site Best Viewed 1024x768+</span><br /><br />
+<span class="tco">Courthouse photos courtesy<br />
+of <a href="http://www.texascourthouses.com/">texascourthouses.com</a>.
+</span></p>
+
+</div>
+<!--anchor tag for maintcomenu-->
+<a class="skiplink" name="maintcomenu"></a>
+<!--Below is an invisible link to skip to maincontentnav -->		
+<a class="skiplink" href="#maincontentnav">Skip main navigation for Texas Court Online, go to  main content navigation</a>		
+<div id=nav-wrapper>
+	<div id=nav-wrap2>
+		<div id=nav-wrap3>
+            <div id="menu">
+            <ol>
+                <li id="active"><a href="http://www.courts.state.tx.us/">TCO</a></li>
+                <li><a href="http://www.courts.state.tx.us/pubs/JudDir.asp">Judicial Directory</a></li>
+                <!--li><a href="http://www.courts.state.tx.us/share/unavailable.asp">Judicial Directory</a></li-->
+                <li><a href="http://www.courts.state.tx.us/oca/judinfo.asp">Judicial Information</a></li>
+                <li><a href="http://www.courts.state.tx.us/entities.asp">Judicial Entities</a></li>
+                <li><a href="http://www.courts.state.tx.us/oca/calendar/2013cal.asp">Events</a></li>
+                <li><a href="http://www.courts.state.tx.us/oca/news.asp">News</a></li>
+                <li><a href="http://www.courts.state.tx.us/links.asp">Links</a></li>
+                
+                <li><a href="http://www.courts.state.tx.us/ForTrialCourts.asp">For Trial Courts</a></li>
+            </ol>
+            </div>
+		</div>
+	</div>
+</div>
+
+
+<div id="seal">
+<img alt='Texas logo' src='http://www.3rdcoa.courts.state.tx.us/seals/header/seal.gif' >
+</div><DIV id=nav-title>
+<P>
+<!--Below is an invisible link to skip to maintcomenu-->
+<a class="skiplink" href="#maintcomenu">Skip sub navigation menu for Texas Courts Online, go to main navigation menu for Texas Courts Online </a>
+
+<a href="http://www.3rdcoa.courts.state.tx.us">
+Third
+<br />&nbsp;&nbsp;&nbsp;Court of<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appeals</a>
+
+</p>
+</DIV>
+  
+  </DIV></DIV></DIV>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width="100%">
+      <DIV id=content>
+      		<DIV id=content-top>
+      			<DIV>
+      				<DIV><!-- top corners and border --></DIV>
+	  			</DIV>
+	  		</DIV><!--End of content-top-->
+      		<DIV id=content-middle>
+      	 	<DIV id=content-middle2>
+
+	     		
+
+<!--MAIN Content Table Begin--> 
+	<TABLE WIDTH=100%>
+    <TR>
+		<TD BGCOLOR="white"><BR><BR>
+			
+				<TABLE CELLPADDING="2" CELLSPACING="0" BORDER="0" WIDTH="100%">
+					<TR>
+						<TD CLASS="BreadCrumbs" BGCOLOR="White" VALIGN="middle">
+							<IMG SRC="../resource/images/icons/folder2.gif" ALIGN="absmiddle" WIDTH="20" HEIGHT="20" HSPACE="0" ALT="Case Search Results">
+						</TD>
+						<TD CLASS="BreadCrumbs" BGCOLOR="White" VALIGN="middle" WIDTH=85%>
+							<A HREF="case.asp?FilingID=15527" CLASS="BreadCrumbs">Case # 03-10-00464-CV</A>  -> 
+							Event: Memorandum opinion issued
+						</TD>
+						<TD Class="TextBlue" BGCOLOR="White" VALIGN="middle" WIDTH=15%>
+							<A HREF="https://www.3rdcoa.courts.state.tx.us/members/cw_add.aspx?FullCaseNumber=03-10-00464-CV&cID=coa3">CaseMail</a>
+			    		</TD>
+					</TR>
+				</TABLE>
+			
+		</TD>
+	</TR><TR>
+		<TD CLASS="TitleBlue">
+			
+			<BR>
+			Event Information:
+			<TABLE BGCOLOR="#A7A895" BORDER="0" CELLSPACING="0" CELLPADDING="1" WIDTH="100%"><TR><TD>
+<TABLE BGCOLOR="#EBEBE2" BORDER="0" CELLSPACING="0" CELLPADDING="3" WIDTH="100%" ><TR><TD WIDTH="25%" NOWRAP CLASS="BreadCrumbs">Event Type:</TD><TD CLASS="TextNormal">Memorandum opinion issued&nbsp;</TD></TR><TR><TD WIDTH="25%" NOWRAP CLASS="BreadCrumbs">Description:</TD><TD CLASS="TextNormal">&nbsp;&nbsp;</TD></TR><TR><TD WIDTH="25%" NOWRAP CLASS="BreadCrumbs">Date:</TD><TD CLASS="TextNormal">3/31/2011&nbsp;</TD></TR><TR><TD WIDTH="25%" NOWRAP CLASS="BreadCrumbs">Disposition:</TD><TD CLASS="TextNormal">Affirmed in part; Reversed and Remanded in part&nbsp;</TD></TR><TR><TD WIDTH="25%" NOWRAP CLASS="BreadCrumbs">Opinion Written:</TD><TD CLASS="TextNormal">Yes&nbsp;</TD></TR></TABLE>
+</TD></TR></TABLE>
+			
+			<BR>
+			<SPAN CLASS="TitleBlue">Opinions Related to this Event:</SPAN>
+			<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" WIDTH="100%"><TR BGCOLOR="#000099" VALIGN=TOP><TH id="PRECOL1" CLASS="TextSmallWhite" ALIGN=LEFT><B>&nbsp;</B></TH><TH id="FIELD2" CLASS="TextSmallWhite" ALIGN=LEFT WIDTH="0.999444752915047%"><B>Date Issued</B></TH></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=Opinion.asp?OpinionID=20090><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD2" CLASS="TextSmall" BGCOLOR=White>3/31/2011</TD></TR><TR><TD COLSPAN=2><HR WIDTH="100%"></TD></TR></TABLE>
+			<BR><BR>
+		</TD>
+	</TR>
+	<TR>
+		<TD CLASS="TextNormal" BGCOLOR="#F5F5F5">
+			<IMG SRC="../resource/images/icons/hint.gif" WIDTH="20" HEIGHT="20" ALT="" BORDER="0">
+			<B>Hint:</B> Click on the folder icons above for more case information.
+		</TD>
+	</TR>
+	</TABLE>
+<!--MAIN Content Table End-->	
+
+
+				
+	     	</DIV><!--End of content-middle2-->
+
+      		<DIV id=content-bottom>
+      		<DIV>      				
+	  		</DIV></DIV>
+	</TD>
+    <TD>
+	
+<!--RIGHT SIDE modules-->
+<DIV id=right-col>
+
+<!--Practice Before the Court -->
+<div class="module blue">
+    <div class=module-heading>
+        <a class="skiplink" name="maincontentnav"></a>
+        <a class="skiplink" href="#maincontent">Skip main content navigation, go to main content</a>		
+        
+        <h4 class=browser><span>General Information</span></h4>
+    </div>
+    <div class=module-main>
+        <dl>
+    
+            <div id="cse-search-form" style="width: 100%;">Loading</div>
+            <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+            <script type="text/javascript"> 
+              google.load('search', '1', {language : 'en'});
+              google.setOnLoadCallback(function() {
+                var customSearchControl = new google.search.CustomSearchControl('003097056825534408492:pz5g8zeomny');
+                customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                var options = new google.search.DrawOptions();
+                options.enableSearchboxOnly("http://www.3rdcoa.courts.state.tx.us/search.asp");    
+                customSearchControl.draw('cse-search-form', options);
+              }, true);
+            </script>
+            <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+            
+            <dt><a href="http://www.3rdcoa.courts.state.tx.us/">3rd COA Home</a></dt>
+            
+            <dt>Practice Before the  Court</dt>
+                <dd>
+                    <a href="http://www.3rdcoa.courts.state.tx.us/rules/procedures.asp">Local Practices</a> |  
+                    <a href="http://www.3rdcoa.courts.state.tx.us/rules/LocalRules.pdf">Local Rules</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/rules/efiling.asp">Electronic Filing</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/forms/3rdcoa-IOPs.pdf">Internal Operating Procedures [pdf]</a> |   
+                    <a href="http://www.supreme.courts.state.tx.us/rules/">General Rules &amp; Standards</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/fees.asp">Fees</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/forms/forms.asp">Forms</a>
+                </dd>
+                
+            <dt>About the Court</dt>
+                <dd>
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/contact.asp">Contact</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/justices.asp">Justices</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/jobs/employment.asp">Employment</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/faq.asp">FAQs</a>
+                </dd>
+            
+            <!--<form action="http://www.3rdcoa.courts.state.tx.us/search.asp" method="get">
+                <label><dt>Search Courts Site</dt>
+                <input title="Search the site" type="text" name="query" value="Type Search Word" onclick="this.value=''"/>
+                </label>
+                <input type="submit" value="Search" />
+            </form> -->
+        </dl>
+    </div>
+</div>
+
+<!--Case Information-->
+      <div class="module red">
+      <div class=module-heading>
+      <h4 class=browser><span>Case Information</span></h4>
+	  </div>
+      <div class=module-main>
+      <dl> 
+
+
+		<!-- gsPageKey is the page from which we're coming -->
+			
+
+		<dt>
+		
+			<a href="http://www.3rdcoa.courts.state.tx.us/opinions/search.asp">Case Search</a>
+		
+        </dt>
+
+        <!-- ######## UPDATE THIS SECTION AS COURTS MOVE TO TAMES ################## -->
+        <dt>
+		 <!--Else link COA opinion search-->	
+    		<a href="http://www.3rdcoa.courts.state.tx.us/opinions/opsrch.asp">Opinion Search</a> 
+        
+        </dt>
+        
+        
+        <!-- ######################################################################### -->
+			
+		
+		
+        	<dt><a href="http://www.3rdcoa.courts.state.tx.us/opinions/docketsrch.asp">Released Orders/Opinions</a></dt>
+		
+        
+        <!-- New feature for 1st COA -->
+        
+        	<!--<dt><a href="http://www.3rdcoa.courts.state.tx.us/pdf/01-11-0079-CV.7-21-2022.pdf">Order issued July 21, 2011</a></dt> -->
+        
+			<dt><a href="http://www.3rdcoa.courts.state.tx.us/opinions/submission.asp">Case Submissions</a></dt>
+		
+        
+        <!-- New feature for 4th COA -->
+        
+	
+		</dl>
+  </div></div>
+
+<!--Login -->
+<div class="module green">
+    <div class=module-heading>
+    	<h4 class=browser><span>Case Mail</span></h4>
+    </div>
+    <div class=module-main>
+        <dl>
+            <dt>Track Cases or Released Opinions</dt>
+            <dd>
+                
+                <a href= "https://www.3rdcoa.courts.state.tx.us/members/members.aspx">My Account</a> | 
+                <a href="https://www.3rdcoa.courts.state.tx.us/members/casewatch.aspx">Case Tracking</a> |
+                <a href="https://www.3rdcoa.courts.state.tx.us/members/opinionwatch.aspx">Opinion Tracking</a> |
+                <a href="https://www.3rdcoa.courts.state.tx.us/members/createmember.aspx">Register</a> |
+                <!-- gsPageKey is the page from which we're coming.
+                     gsPageKey = "main" means we're coming from www.courts.state.tx.us,
+                     but Darrell created it for use in conjunction with anomalous 5th stuff (11/01/2012) -->
+                <!-- 5th COA has now moved entirely to CaseMail. Leaving this in as a reminder of what gsPageKey is for,
+                	 and to search out where it's used and see if we want to remove it entirely (11/28/2012) -->
+                <!--< % If LCase(gsPageKey) = "coa5" OR LCase(gsPageKey) = "main" Then % >
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_basics5.asp">Basics</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_faqs5.asp">FAQs</a>
+                < % else % >-->
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_basics.asp">Basics</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_faqs.asp">FAQs</a>
+                <!--< % end if % >-->
+                <br />
+            </dd>
+        </dl>
+    </div>
+</div>
+
+
+<!--Quick Links-->
+<div class="module grey">
+
+<div class=module-heading>
+	<h4 class=browser><span>Texas Appellate Courts</span></h4>
+</div>
+
+
+<div class=module-main>
+<dl>
+	<dt><a href="http://www.supreme.courts.state.tx.us">The Supreme Court of Texas</a></dt>
+	<dt><a href="http://www.cca.courts.state.tx.us">Court of Criminal Appeals</a></dt>		
+	<dt><a href="http://www.courts.state.tx.us/courts/coa.asp">Courts of Appeals</a> <span class="sans">[by District-City]</span></dt>		
+
+		<dd>
+			<a href="http://www.1stcoa.courts.state.tx.us">1-Houston</a> | 
+			<a href="http://www.2ndcoa.courts.state.tx.us">2-Fort Worth</a> | 
+			<a href="http://www.3rdcoa.courts.state.tx.us">3-Austin</a>
+			<br />
+			
+			<a href="http://www.4thcoa.courts.state.tx.us">4-San Antonio</a> | 
+			<a href="http://www.5thcoa.courts.state.tx.us">5-Dallas</a> | 
+			<a href="http://www.6thcoa.courts.state.tx.us">6-Texarkana</a>
+			<br />
+			
+			<a href="http://www.7thcoa.courts.state.tx.us">7-Amarillo</a> | 
+			<a href="http://www.8thcoa.courts.state.tx.us">8-El Paso</a> | 
+			<a href="http://www.9thcoa.courts.state.tx.us">9-Beaumont</a>
+			<br />
+			
+			<a href="http://www.10thcoa.courts.state.tx.us">10-Waco</a> | 
+			<a href="http://www.11thcoa.courts.state.tx.us">11-Eastland</a> | 
+			<a href="http://www.12thcoa.courts.state.tx.us">12-Tyler</a>
+			<br />
+			
+			<a href="http://www.13thcoa.courts.state.tx.us">13-Corpus Christi/Edinburg</a>
+            <br />
+            
+			<a href="http://www.14thcoa.courts.state.tx.us">14-Houston</a>
+		</dd>
+ 
+	<dt><a href="http://www.courts.state.tx.us/pubs/AR2012/toc.htm">Appellate Statistics</a></dt>		
+
+</dl>
+</div>
+</div>
+
+<!--Latest Video-->
+<!--include file="video.htm"-->
+
+</TD></TR></TBODY></TABLE>
+
+
+<div id=footer>
+<div>
+
+<div id="seal_small">
+
+
+<img src="http://www.3rdcoa.courts.state.tx.us/seals/footer/txseal_small.jpg" width="50" height="50" alt="Texas state seal" />&nbsp;&nbsp;</div>
+<a href="http://www.3rdcoa.courts.state.tx.us/3rdcoa.asp">Third Court of Appeals</a>
+&nbsp;&bull;&nbsp;
+Price Daniel Sr. Bldg.
+&nbsp;&bull;&nbsp;
+209 W. 14th St., Rm. 101
+&nbsp;&bull;&nbsp;
+Austin, TX 78701
+&nbsp;&bull;&nbsp;
+(512) 463-1733
+&bull;&nbsp; <a href="mailto:comments@3rdcoa.courts.state.tx.us?subject=3rd Coa website comment/question">Email Court</a> <br />
+
+<a href="http://www.courts.state.tx.us/accessibility.asp">Accessibility Policy</a> |
+<a href="http://www.courts.state.tx.us/ppolicy.asp">Privacy &amp; Security Policy</a> | 
+<a class=Normal href="http://www.courts.state.tx.us/rules/openrecstate.asp">Open Records Policy</a> | 
+<a href="http://www.dir.texas.gov/pubs/Pages/weblink-privacy.aspx" target="_blank">State Web Site Link &amp; Privacy Policy</a> | <a href="http://www.search.txcourts.gov/webmaster/contact.aspx?courtid=3rdCOA">Contact TCO</a> 
+
+
+
+<br /> 
+
+<a class=Normal href="http://www.texas.gov" target="_blank">Texas.gov</a> | 
+<a class=Normal href="http://www2.tsl.state.tx.us/trail/" target="_blank">TRAIL</a>  | 
+<a class=Normal href="http://www.texashomelandsecurity.com/" target="_blank">Texas Homeland Security</a> | 
+<a href="http://window.state.tx.us/comptrol/expendlist/cashdrill.php" target="_blank">Where the Money Goes</a>
+
+
+	| <a href="http://www.3rdcoa.courts.state.tx.us/forms/3lar.pdf">Legislative Appropriations Request [pdf]</a> 
+	<br /><a href="http://www.3rdcoa.courts.state.tx.us/forms/3ob.pdf">Operating Budget [pdf]</a> 
+	<!--| <a href="http://www.3rdcoa.courts.state.tx.us/forms/2010-11ReductionPlan.pdf">FY 2010-11 5% Budget Cuts [pdf]</a--> 
+	
+	
+
+</div>
+
+
+</DIV></DIV>
+<DIV></DIV>
+</BODY></HTML>
+

@@ -1,0 +1,589 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASP.NET_SessionId=bpwlevalsujp1mfkle0jrj55; path=/; HttpOnly
+X-AspNet-Version: 2.0.50727
+X-Powered-By: ASP.NET
+Date: Tue, 15 Jan 2013 18:02:18 GMT
+Content-Length: 63147
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="title" content="Case Mail Case Search" /><meta name="description" content="Case Mail case search" /><meta name="keywords" content="Texas Court of Appeals CaseMail, CaseMail, Case Mail" /><meta name="category" content="Government" /><meta name="author" content="Texas Office of Court Administration" /><meta name="copyright" content="Texas Courts Online (TCO) - 2006" /><meta name="rating" content="General" /><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.courts.state.tx.us/&quot; on &quot;2000.04.11T20:10-0800&quot; r (n 0 s 0 v 0 l 0))" /><meta name="ROBOTS" content="NOINDEX, NOFOLLOW" /><link media="all" href="css/styles2.css" type="text/css" rel="stylesheet" /><meta content="MSHTML 6.00.2900.2873" name="GENERATOR" /><title>
+	TAMES SEARCH - First Court of Appeals
+</title><link media="all" type="text/css" rel="stylesheet" href="css/styles2.css" /><link media="all" type="text/css" rel="stylesheet" href="css/oca.css" /><link media="all" type="text/css" rel="stylesheet" href="css/nav.css" /><link media="all" type="text/css" rel="stylesheet" href="css/tco.css" />
+        <script type="text/javascript">
+            var baseUrl = '/';
+        </script>
+    
+
+    <script language="javascript" type="text/javascript" src='scripts/functions.js'></script>
+
+    
+
+    <script language="javascript" type="text/javascript">
+        function loadXMLDoc(url) {
+            // window.clipboardData.setData("text", url);
+            // alert(url);
+            if (window.clipboardData) {
+                window.clipboardData.setData('text', url);
+                alert('The text is copied to your clipboard...' + url);
+            }
+            else {
+                var clipboarddiv = document.getElementById('divclipboardswf');
+                if (clipboarddiv == null) {
+                    clipboarddiv = document.createElement('div');
+                    clipboarddiv.setAttribute("name", "divclipboardswf");
+                    clipboarddiv.setAttribute("id", "divclipboardswf");
+                    document.body.appendChild(clipboarddiv);
+                }
+                clipboarddiv.innerHTML = '<embed src="clipboard.swf" FlashVars="clipboard=' +
+  encodeURIComponent(url) + '" width="0" height="0" type="application/x-shockwave-flash"></embed>';
+                copyIntoClipboard(url);
+                alert('Clip board copy did not work in none IE browser, select link and right click to copy link...' + url);
+            }
+            return false;
+        }
+        function copyIntoClipboard(text) {
+
+            var flashId = 'flashId-HKxmj5';
+
+            /* Replace this with your clipboard.swf location */
+            var clipboardSWF = 'http://appengine.bravo9.com/copy-into-clipboard/clipboard.swf';
+
+            if (!document.getElementById(flashId)) {
+                var div = document.createElement('div');
+                div.id = flashId;
+                document.body.appendChild(div);
+            }
+            document.getElementById(flashId).innerHTML = '';
+            var content = '<embed src="' +
+        clipboardSWF +
+        '" FlashVars="clipboard=' + encodeURIComponent(text) +
+        '" width="0" height="0" type="application/x-shockwave-flash"></embed>';
+            document.getElementById(flashId).innerHTML = content;
+        }
+    </script>
+
+<link href="/WebResource.axd?d=GTSzIlOPpfKejlSW5WgbYji3YOhZn3Je74cKQOokPFlC5qVsYGJBbAqp9Vz4rqWby3hP1-_mJNJLrswtTuaGcUx7F_i8QrEQtldCRfpz6ooTX6DN09own9cQFVZkIPf86spZGA2&amp;t=634787345660000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=DplgfFn3s2JCSn0UE7t_Cm1fsZzAGDXwvgA_pPpbby4IC_Hru-zujpviQU26HQq4NCSOMbZcZFjnEWEeIMd_q0sP_wbPGxEAIRs58wyOyv7LC9CxOm8yVLSk6cq-b7MB8M2aEXXR2jgdQc6Y7225LlXY1yDJv0bh7gJOOBX7V0r4OjrD0&amp;t=634787345660000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="home">
+    <form name="aspnetForm" method="post" action="Case.aspx?cn=01-12-01013-CV&amp;p=1" id="aspnetForm">
+<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEzMDc3MTUyMA9kFgJmD2QWAgIDD2QWAgIDD2QWCgIBDw8WAh4HVmlzaWJsZWhkFgwCAQ8WAh4Dc3JjBSEuLi9pbWFnZXMvY291cnRob3VzZS9NaXRjaGVsbC5qcGdkAgMPFgIfAQUoLi4vaW1hZ2VzL2FyY2gvU3RhdGVfQ2FwaXRvbF9OV19WaWV3LmpwZ2QCBQ8WAh8BBSEuLi9pbWFnZXMvY291cnRob3VzZS9Nb250YWd1ZS5qcGdkAhMPDxYCHwBnZGQCGQ8PFgIfAGdkZAI5Dw8WAh8AZ2RkAgMPDxYEHgRUZXh0BSVUQU1FUyBTRUFSQ0ggLSBGaXJzdCBDb3VydCBvZiBBcHBlYWxzHwBnZGQCBQ8WAh4Fd2lkdGgFBTk1MHB4FgJmD2QWBGYPZBYCAgEPZBYCAgEPZBYCAgEPZBYCAgEPZBYCZg9kFhBmDxYCHwBoZAIDDw8WAh8AZ2QWAgIBDzwrAA0CABQrAAIPFgYeC18hSXRlbUNvdW50AgEeC18hRGF0YUJvdW5kZx4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZBcCBQ9TZWxlY3RlZEluZGV4ZXMWAAULRWRpdEluZGV4ZXMWAAEWAhYKDwIIFCsACDwrAAUBABYEHghEYXRhVHlwZRkpXFN5c3RlbS5EYXRlVGltZSwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5HgRvaW5kAgI8KwAFAQAWBB8HGSsCHwgCAzwrAAUBABYEHwcZKwIfCAIEPCsABQEAFgQfBxkrAh8IAgU8KwAFAQAWAh8IAgY8KwAFAQAWBB8HGSsCHwgCBzwrAAUBABYEHwcZKVhTeXN0ZW0uR3VpZCwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5HwgCCDwrAAUBABYEHwcZKwUfCAIJZGUUKwAACyl5VGVsZXJpay5XZWIuVUkuR3JpZENoaWxkTG9hZE1vZGUsIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTIuMS40MTEuMzUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNAE8KwAHAAspdFRlbGVyaWsuV2ViLlVJLkdyaWRFZGl0TW9kZSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMi4xLjQxMS4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0AWRkFgofBWceFElzQm91bmRUb0ZvcndhcmRPbmx5aB4IRGF0YUtleXMWAB4FXyFDSVMXAB8EZmYWBGYPFCsAA2RkZGQCAQ8WBBQrAAIPFgofBWcfCWgfChYAHwsXAB8EZmQXAwUGXyFEU0lDZgULXyFJdGVtQ291bnRmBQhfIVBDb3VudGQWAh4DX3NlFgQeAl9jAgEeATAWBB4DX2ZuBQlFdmVudERhdGUeA19zbwspdVRlbGVyaWsuV2ViLlVJLkdyaWRTb3J0T3JkZXIsIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTIuMS40MTEuMzUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNAJkFghkZGRkZGRkZBYCZg9kFgZmD2QWAmYPZBYOZg8PFgQfAgUGJm5ic3A7HwBoZGQCAQ8PFgQfAgUGJm5ic3A7HwBoZGQCBQ8PFgIfAGhkZAIGDw8WAh8CBQhEb2N1bWVudGRkAgcPDxYEHwIFBkp1ZGdlcx8AaGRkAggPDxYEHwIFB0V2ZW50SUQfAGhkZAIJDw8WBB8CBRBPcGluaW9uSURGb3JIVE1MHwBoZGQCAQ8PFgIfAGhkFgJmD2QWFGYPDxYCHwIFBiZuYnNwO2RkAgEPDxYCHwIFBiZuYnNwO2RkAgIPDxYCHwIFBiZuYnNwO2RkAgMPDxYCHwIFBiZuYnNwO2RkAgQPDxYCHwIFBiZuYnNwO2RkAgUPDxYCHwIFBiZuYnNwO2RkAgYPDxYCHwIFBiZuYnNwO2RkAgcPDxYCHwIFBiZuYnNwO2RkAggPDxYCHwIFBiZuYnNwO2RkAgkPDxYCHwIFBiZuYnNwO2RkAgIPZBYGZg8PFgIfAGhkZAIBDw8WAh8AaGRkAgIPDxYCHgpDb2x1bW5TcGFuAgQWAh4Fc3R5bGUFEHRleHQtYWxpZ246bGVmdDtkAgQPZBYCAgUPPCsADQIAFCsAAg8WBh8FZx8EAgEfBmhkFwIFD1NlbGVjdGVkSW5kZXhlcxYABQtFZGl0SW5kZXhlcxYAARYCFgoPAgkUKwAJFCsABRYEHwcZKwIfCAICZGRkBQlFdmVudERhdGUUKwAFFgQfBxkrAh8IAgNkZGQFCUV2ZW50VHlwZRQrAAUWBB8HGSsCHwgCBGRkZAULRGVzY3JpcHRpb24UKwAFFgQfBxkrAh8IAgVkZGQFC0Rpc3Bvc2l0aW9uFCsABRYGHwcZKwIfCAIGHwBoZGRkBQ1QdWJsaWNSZW1hcmtzFCsABRYEHwBnHwgCB2RkZAUOVGVtcGxhdGVDb2x1bW4UKwAFFgQfBxkrAh8IAghkZGQFBkp1ZGdlcxQrAAUWBB8HGSsFHwgCCWRkZAUHRXZlbnRJRBQrAAUWBB8HGSsFHwgCCmRkZAUQT3BpbmlvbklERm9ySFRNTGRlFCsAAAsrBgE8KwAHAAsrBwFkZBYMHwVnHwloHgVfcWVsdBkpZ1N5c3RlbS5EYXRhLkRhdGFSb3dWaWV3LCBTeXN0ZW0uRGF0YSwgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkfChYAHwsXAB8EAglmFgRmDxQrAANkZGRkAgEPFgQUKwACDxYMHwVnHwloHxMZKwkfChYAHwsXAB8EAglkFwMFBl8hRFNJQwIJBQtfIUl0ZW1Db3VudAIJBQhfIVBDb3VudGQWAh8MFgIfDWZkFglkZGRkZGRkZGQWAmYPZBYoZg9kFgJmD2QWFmYPDxYEHwIFBiZuYnNwOx8AaGRkAgEPDxYEHwIFBiZuYnNwOx8AaGRkAgIPDxYCHwIFBERhdGVkZAIDDw8WAh8CBQpFdmVudCBUeXBlZGQCBA8PFgIfAgULRGVzY3JpcHRpb25kZAIFDw8WAh8CBQtEaXNwb3NpdGlvbmRkAgYPDxYEHwIFB1JlbWFya3MfAGhkZAIHDw8WAh8CBQhEb2N1bWVudGRkAggPDxYEHwIFBkp1ZGdlcx8AaGRkAgkPDxYEHwIFB0V2ZW50SUQfAGhkZAIKDw8WBB8CBRBPcGluaW9uSURGb3JIVE1MHwBoZGQCAQ8PFgIfAGhkFgJmD2QWFmYPDxYCHwIFBiZuYnNwO2RkAgEPDxYCHwIFBiZuYnNwO2RkAgIPDxYCHwIFBiZuYnNwO2RkAgMPDxYCHwIFBiZuYnNwO2RkAgQPDxYCHwIFBiZuYnNwO2RkAgUPDxYCHwIFBiZuYnNwO2RkAgYPDxYCHwIFBiZuYnNwO2RkAgcPDxYCHwIFBiZuYnNwO2RkAggPDxYCHwIFBiZuYnNwO2RkAgkPDxYCHwIFBiZuYnNwO2RkAgoPDxYCHwIFBiZuYnNwO2RkAgIPDxYCHgRfaWloBQEwZBYWZg8PFgIfAGhkZAIBDw8WBB8CBQYmbmJzcDsfAGhkZAICDw8WAh8CBQowMS8wNy8yMDEzZGQCAw8PFgIfAgUYTW90aW9uIGZvciByZWhlYXJpbmcgZHVlZGQCBA8PFgIfAgUGJm5ic3A7ZGQCBQ8PFgIfAgUGJm5ic3A7ZGQCBg8PFgQfAgUKJm5ic3A7PGJyPh8AaGRkAgcPDxYCHwJlZBYCAgEPPCsADQEADxYEHwVnHwRmZGQCCA8PFgQfAgUGJm5ic3A7HwBoZGQCCQ8PFgQfAgUkMDIzOGM5NDYtODE2ZC00NDRkLThkYzctNzhkZjY4MmQzM2FmHwBoZGQCCg8PFgQfAgUGJm5ic3A7HwBoZGQCAw9kFgJmDw8WAh8AaGRkAgQPDxYCHxQFATFkFhZmDw8WAh8AaGRkAgEPDxYEHwIFBiZuYnNwOx8AaGRkAgIPDxYCHwIFCjEyLzIxLzIwMTJkZAIDDw8WAh8CBSZQZXRpdGlvbiBmb3Igd3JpdCBvZiBtYW5kYW11cyBkaXNwb3NlZGRkAgQPDxYCHwIFBiZuYnNwO2RkAgUPDxYCHwIFI0dyYW50IHBldGl0aW9uIGZvciB3cml0IG9mIG1hbmRhbXVzZGQCBg8PFgQfAgUKJm5ic3A7PGJyPh8AaGRkAgcPDxYCHwJlZBYCAgEPPCsADQEADxYEHwVnHwRmZGQCCA8PFgQfAgUGJm5ic3A7HwBoZGQCCQ8PFgQfAgUkYjM1MzFjMTgtYzcwNS00ODIyLThkNDAtYWFhM2U5NTExZTY0HwBoZGQCCg8PFgQfAgUGJm5ic3A7HwBoZGQCBQ9kFgJmDw8WAh8AaGRkAgYPDxYCHxQFATJkFhZmDw8WAh8AaGRkAgEPDxYEHwIFBiZuYnNwOx8AaGRkAgIPDxYCHwIFCjEyLzIxLzIwMTJkZAIDDw8WAh8CBRlNZW1vcmFuZHVtIG9waW5pb24gaXNzdWVkZGQCBA8PFgIfAgUGJm5ic3A7ZGQCBQ8PFgIfAgUjR3JhbnQgcGV0aXRpb24gZm9yIHdyaXQgb2YgbWFuZGFtdXNkZAIGDw8WBB8CBQombmJzcDs8YnI+HwBoZGQCBw8PFgIfAmVkFgICAQ88KwANAQAPFgQfBWcfBAICZBYCZg9kFghmDw8WAh8AaGRkAgEPZBYEZg8PFgIfAgUSTWVtb3JhbmR1bSBPcGluaW9uZGQCAQ9kFgJmDw8WBB8CBQ8gWyBQREYvNTQgS0IgXSAeC05hdmlnYXRlVXJsBYYBU2VhcmNoTWVkaWEuYXNweD9NZWRpYVZlcnNpb25JRD00ODZjNTVmYy00NGRiLTQ1NzAtYTFmZS1jZWI4ODgxM2YyODUmY29hPWNvYTAxJkRUPU9waW5pb24mTWVkaWFJRD1iODE1NDhhMC03NzFlLTRjYWEtYjViYi01MWVhMDEyZTJiOTRkZAICD2QWBGYPDxYCHwIFBk5PVElDRWRkAgEPZBYCZg8PFgQfAgUPIFsgUERGLzYzIEtCIF0gHxUFjwFTZWFyY2hNZWRpYS5hc3B4P01lZGlhVmVyc2lvbklEPTBhZTZiN2I5LWJhNmItNDZhZi1hZmYzLTE0ZjRiMjVjOWU5YyZjb2E9Y29hMDEmRFQ9TUVNIE9QSU5JT04gSVNTRCZNZWRpYUlEPTE3NmNhZjhhLTY1YzItNGI3YS1iMTdhLTM1N2I1MDk0MzE5ZWRkAgMPDxYCHwBoZGQCCA8PFgQfAgVhQ2hpZWYgSnVzdGljZSBTaGVycnkgIFJhZGFjazxici8+SnVzdGljZSBMYXVyYSBDYXJ0ZXIgSGlnbGV5PGJyLz5KdXN0aWNlIE1pY2hhZWwgIE1hc3NlbmdhbGU8YnIvPh8AaGRkAgkPDxYEHwIFJGZmMzU3NjM5LWQ3NDAtNGYzMy05ZmYwLTM1MzdhYmQwZmJmNh8AaGRkAgoPDxYEHwIFJGI0ZTlhMjQwLTU1YjQtNDMyZC05OWNmLTZiMWVmNmQyODMwMB8AaGRkAgcPZBYCZg8PFgIfAGhkZAIIDw8WAh8UBQEzZBYWZg8PFgIfAGhkZAIBDw8WBB8CBQYmbmJzcDsfAGhk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AgUGJm5ic3A7HwBoZGQCAg8PFgIfAgUZU2Nod2FiLVJhZGNsaWZmZSwgU3V6YW5uZWRkAgMPDxYCHwIFB1JlbGF0b3JkZAIEDw8WAh8CBRxLZWl0aCBBbGV4YW5kZXIgR3Jvc3MgIDxici8+ZGQCBw9kFgJmDw8WAh8AaGRkAgcPDxYCHwBoZBYCAgEPFgIfAGhkAggPDxYCHwBoZGQCCg8PFgIfAGhkFgICAQ88KwANAgAUKwACZBcAARYCFgpkZGUUKwAACysGATwrAAcACysHAWRkZGZkAgEPFgIfAGgWCAIBDw8WAh8AaGQWAgIDDw9kDxAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZWQWAQIDZGQCAw8PFgIfAGhkFgICAw8PZA8QFgFmFgEWAh8WZBYBAgNkZAIFDw8WAh8AaGQWAgIFDw8WAh8AZ2QWDAIBDxYCHgRocmVmBTpodHRwczovL3d3dy4xc3Rjb2EuY291cnRzLnN0YXRlLnR4LnVzL21lbWJlcnMvbWVtYmVycy5hc3B4ZAIDDxYCHxcFPGh0dHBzOi8vd3d3LjFzdGNvYS5jb3VydHMuc3RhdGUudHgudXMvbWVtYmVycy9jYXNld2F0Y2guYXNweGQCBQ8WAh8XBT9odHRwczovL3d3dy4xc3Rjb2EuY291cnRzLnN0YXRlLnR4LnVzL21lbWJlcnMvb3BpbmlvbndhdGNoLmFzcHhkAgcPFgIfFwU/aHR0cHM6Ly93d3cuMXN0Y29hLmNvdXJ0cy5zdGF0ZS50eC51cy9tZW1iZXJzL2NyZWF0ZW1lbWJlci5hc3B4ZAIJDxYCHxcFPGh0dHA6Ly93d3cuMXN0Y29hLmNvdXJ0cy5zdGF0ZS50eC51cy9jb21tb24vY21haWxfYmFzaWNzLmFzcGQCCw8WAh8XBTpodHRwOi8vd3d3LjFzdGNvYS5jb3VydHMuc3RhdGUudHgudXMvY29tbW9uL2NtYWlsX2ZhcXMuYXNwZAIHDw8WAh8AaGRkAgcPDxYCHwBoZBYEAgUPDxYCHwBnZBYCAgEPFgIfAQU1aHR0cDovL3d3dy50eGNvdXJ0cy5nb3Yvc2VhbHMvZm9vdGVyL3R4c2VhbF9zbWFsbC5qcGdkAgkPD2QPEBYBZhYBFgIfFmQWAQIDZGQCCQ8PFgIfAgUfd3d3LnNlYXJjaC50eGNvdXJ0cy5nb3YqfCpjb2EwMWRkGAoFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRXZlbnRzJGN0bDAwJGN0bDE4JGdyaWREb2N1bWVudA88KwAKAQgCAWQFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRXZlbnRzJGN0bDAwJGN0bDA2JGdyaWREb2N1bWVudA88KwAKAQhmZAU8Y3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRncmRFdmVudHMkY3RsMDAkY3RsMTQkZ3JpZERvY3VtZW50DzwrAAoBCGZkBTxjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZEV2ZW50cyRjdGwwMCRjdGwxMCRncmlkRG9jdW1lbnQPPCsACgEIAgFkBTxjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZEV2ZW50cyRjdGwwMCRjdGwyMCRncmlkRG9jdW1lbnQPPCsACgEIZmQFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRXZlbnRzJGN0bDAwJGN0bDA4JGdyaWREb2N1bWVudA88KwAKAQgCAWQFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRXZlbnRzJGN0bDAwJGN0bDE2JGdyaWREb2N1bWVudA88KwAKAQhmZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFI2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkQnJpZWZzBSNjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZEV2ZW50cwUlY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRncmRDYWxlbmRhcgUiY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRncmRQYXJ0eQU8Y3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRncmRFdmVudHMkY3RsMDAkY3RsMTIkZ3JpZERvY3VtZW50DzwrAAoBCAIBZAU8Y3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRncmRFdmVudHMkY3RsMDAkY3RsMDQkZ3JpZERvY3VtZW50DzwrAAoBCGZksR2Zzwrnj281RTnj/JPJpqtdVfw=" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af9903e4d-7650-4261-a97e-57348f3bd2d3%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2012.1.411.35%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a4cad056e-160b-4b85-8751-cc8693e9bcd0%3a16e4e7cd%3a58366029" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLQxdHwAwKsiKA0ApGfgp8GAuLa294EAsfxvckK1OXCR+oDBXe+nj4P0+Sra0iMKYk=" />
+    
+    <div>
+    </div>
+    <div id="ctl00_wrapper">
+        <div id="container">
+            
+            <span id="ctl00_txtCourtName" style="display:inline-block;">TAMES SEARCH - First Court of Appeals</span>
+            <table id="ctl00_tblContent" cellspacing="0" cellpadding="0" border="0" width="950px">
+	<tr valign="top">
+		<td width="100%">
+                            <div id="ctl00_content">
+                                <div id="content-top">
+                                    <div>
+                                        <div>
+                                            <!-- top corners and border -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End of content-top-->
+                                <div id="content-middle">
+                                    <div id="content-middle2">
+                                        <div id="topright-decoration">
+                                        </div>
+                                        <!--Begin the form-->
+                                        
+    <!--Begin the form-->
+    <div>
+        <table id="ctl00_ContentPlaceHolder1_tblContent" width="100%">
+			<tr>
+				<td class="TextNormal" style="height: 25px">
+                    &nbsp;
+                </td>
+			</tr>
+			<tr>
+				<td class="TextNormal">
+                    <table cellpadding="1" width="100%" align="center" border="0" style="border-color: #648abd">
+                        <tbody>
+                            <tr>
+                                <td class="BreadCrumbs" valign="middle" style="background-color: white">
+                                    <br />
+                                    Case #
+                                    01-12-01013-CV
+                                    <table cellpadding="2" cellspacing="0" border="0" width="100%">
+                                        <tr align="left">
+                                        </tr>
+                                        <tr align="center">
+                                            <td colspan="2">
+                                                
+                                                
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="TitleBlue">
+                                                <br />
+                                                Case Information:
+                                                <table style="background-color: #A7A895" border="0" cellspacing="0" cellpadding="1"
+                                                    width="100%">
+                                                    <tr>
+                                                        <td>
+                                                            <table style="background-color: #EBEBE2" border="0" cellspacing="0" cellpadding="3"
+                                                                width="100%">
+                                                                <tr>
+                                                                    <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                        Case Number:
+                                                                    </td>
+                                                                    <td class="TextNormal">
+                                                                        <span id="ctl00_ContentPlaceHolder1_Label1"></span>
+                                                                        01-12-01013-CV&nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                        Date Filed:
+                                                                    </td>
+                                                                    <td class="TextNormal">
+                                                                        11/05/2012&nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                        Case Type:
+                                                                    </td>
+                                                                    <td class="TextNormal">
+                                                                        Mandamus&nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                        Style:
+                                                                    </td>
+                                                                    <td class="TextNormal">
+                                                                        In re Cecilia Marie Ryan and Attorney Suzanne Schwab-Radcliffe&nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                        v.:
+                                                                    </td>
+                                                                    <td class="TextNormal">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                                <div id="ctl00_ContentPlaceHolder1_COAOnly">
+					
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Original Proceeding:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            Yes&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Transferred From:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            &nbsp;&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Transfer In Date:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            &nbsp;&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Transfer Case No:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            &nbsp;&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Transferred To:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            &nbsp;&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Transfer Out Date:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            &nbsp;&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Publication Service:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            Thomson/West&nbsp;&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                
+				</div>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <div id="ctl00_ContentPlaceHolder1_pnlBriefs">
+					
+                                                    <br />
+                                                    <span class="TitleBlue">Appellate Briefs:</span><br />
+                                                    <div id="ctl00_ContentPlaceHolder1_grdBriefs" class="RadGrid RadGrid_Office2007">
+
+					<!-- 2012.1.411.35 --><table class="rgMasterTable" border="0" id="ctl00_ContentPlaceHolder1_grdBriefs_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col" class="rgHeader rgSorted"><a title="Click here to sort" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$grdBriefs$ctl00$ctl02$ctl00$ctl00','')">Date</a>&nbsp;<input type="submit" name="ctl00$ContentPlaceHolder1$grdBriefs$ctl00$ctl02$ctl00$ctl01" value=" " title="Sorted desc" class="rgSortDesc" /></th><th scope="col" class="rgHeader"><a title="Click here to sort" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$grdBriefs$ctl00$ctl02$ctl00$ctl02','')">Event Type</a></th><th scope="col" class="rgHeader"><a title="Click here to sort" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$grdBriefs$ctl00$ctl02$ctl00$ctl03','')">Description</a></th><th scope="col" class="rgHeader">Document</th>
+		</tr>
+	</thead><tbody>
+	<tr class="rgNoRecords">
+		<td colspan="4" style="text-align:left;"><div><b>No Briefs.</b><br/></div></td>
+	</tr>
+	</tbody>
+
+</table><input id="ctl00_ContentPlaceHolder1_grdBriefs_ClientState" name="ctl00_ContentPlaceHolder1_grdBriefs_ClientState" type="hidden" />
+						</div>
+					
+                                                
+				</div>
+                                                <div id="ctl00_ContentPlaceHolder1_pnlEvents">
+					
+                                                    <br />
+                                                    <span class="TitleBlue">Case Events:</span><br />
+                                                    <!-- -->
+                                                    <!-- -->
+                                                    <!-- -->
+                                                    <!-- 
+                                                    7/16/2010: hn: not sure why we need to check visible when LinkTypeID = "opinion"
+                                                                        <a id="ctl00_ContentPlaceHolder1_lnkDocument" target="_blank">Opinion</a>&nbsp
+                                                                        <a id="ctl00_ContentPlaceHolder1_lnkDocument2" target="_blank">Event</a>
+
+                                                    -->
+                                                    <div id="ctl00_ContentPlaceHolder1_grdEvents" class="RadGrid RadGrid_Office2007">
+
+					<table class="rgMasterTable" border="0" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col" class="rgHeader">Date</th><th scope="col" class="rgHeader">Event Type</th><th scope="col" class="rgHeader">Description</th><th scope="col" class="rgHeader">Disposition</th><th scope="col" class="rgHeader">Document</th>
+		</tr>
+	</thead><tbody>
+	<tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__0" style="border-style:Solid;">
+		<td>01/07/2013</td><td>Motion for rehearing due</td><td>&nbsp;</td><td>&nbsp;</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+
+		</div>
+                                                                    </td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__1" style="background-color:WhiteSmoke;">
+		<td>12/21/2012</td><td>Petition for writ of mandamus disposed</td><td>&nbsp;</td><td>Grant petition for writ of mandamus</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+
+		</div>
+                                                                    </td>
+	</tr><tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__2" style="border-style:Solid;">
+		<td>12/21/2012</td><td>Memorandum opinion issued</td><td>&nbsp;</td><td>Grant petition for writ of mandamus</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00_ctl08_gridDocument" style="border-style:None;width:100%;border-collapse:collapse;">
+				<tr align="left" style="border-style:None;">
+					<td align="left" style="border-style:None;width:70%;">Memorandum Opinion</td><td align="left" style="border-style:None;width:30%;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=486c55fc-44db-4570-a1fe-ceb88813f285&amp;coa=coa01&amp;DT=Opinion&amp;MediaID=b81548a0-771e-4caa-b5bb-51ea012e2b94" target="_blank" style="display:inline-block;border-style:None;width:30%;"> [ PDF/54 KB ] </a></td>
+				</tr><tr align="left" style="border-style:None;white-space:nowrap;">
+					<td align="left" style="border-style:None;width:70%;">NOTICE</td><td align="left" style="border-style:None;width:30%;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=0ae6b7b9-ba6b-46af-aff3-14f4b25c9e9c&amp;coa=coa01&amp;DT=MEM OPINION ISSD&amp;MediaID=176caf8a-65c2-4b7a-b17a-357b5094319e" target="_blank" style="display:inline-block;border-style:None;width:30%;"> [ PDF/63 KB ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                                    </td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__3" style="background-color:WhiteSmoke;">
+		<td>12/21/2012</td><td>Submission cancelled</td><td>&nbsp;</td><td>&nbsp;</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00_ctl10_gridDocument" style="border-style:None;width:100%;border-collapse:collapse;">
+				<tr align="left" style="border-style:None;">
+					<td align="left" style="border-style:None;width:70%;">Notice </td><td align="left" style="border-style:None;width:30%;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=687a5a4e-38f7-40b9-821e-3730f626fd3c&amp;coa=coa01&amp;DT=Other&amp;MediaID=7781fd8a-113c-4075-a06b-3fb222ffb5f7" target="_blank" style="display:inline-block;border-style:None;width:30%;"> [ PDF ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                                    </td>
+	</tr><tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__4" style="border-style:Solid;">
+		<td>12/20/2012</td><td>Set for submission on briefs</td><td>&nbsp;</td><td>&nbsp;</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00_ctl12_gridDocument" style="border-style:None;width:100%;border-collapse:collapse;">
+				<tr align="left" style="border-style:None;">
+					<td align="left" style="border-style:None;width:70%;">NOTICE</td><td align="left" style="border-style:None;width:30%;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=a4f19e09-c888-4e44-a6bf-ac3602a15ddb&amp;coa=coa01&amp;DT=SUBMISSION/BRIEFS&amp;MediaID=59418668-8b53-4bdb-abcc-6b58ee2dc060" target="_blank" style="display:inline-block;border-style:None;width:30%;"> [ PDF/104 KB ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                                    </td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__5" style="background-color:WhiteSmoke;">
+		<td>12/17/2012</td><td>Fax received</td><td>Judge</td><td>&nbsp;</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+
+		</div>
+                                                                    </td>
+	</tr><tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__6" style="border-style:Solid;">
+		<td>11/27/2012</td><td>Response due</td><td>Real party in interest</td><td>&nbsp;</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+
+		</div>
+                                                                    </td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__7" style="background-color:WhiteSmoke;">
+		<td>11/08/2012</td><td>Response requested by the court</td><td>Real party in interest</td><td>&nbsp;</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00_ctl18_gridDocument" style="border-style:None;width:100%;border-collapse:collapse;">
+				<tr align="left" style="border-style:None;">
+					<td align="left" style="border-style:None;width:70%;">NOTICE</td><td align="left" style="border-style:None;width:30%;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=e134ddb4-4972-4fa7-910e-15734dae3b5c&amp;coa=coa01&amp;DT=RESP REQUEST&amp;MediaID=0f767365-546d-40f7-9a16-5ff4a62ebce7" target="_blank" style="display:inline-block;border-style:None;width:30%;"> [ PDF/75 KB ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                                    </td>
+	</tr><tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdEvents_ctl00__8" style="border-style:Solid;">
+		<td>11/05/2012</td><td>Petition for writ of mandamus filed</td><td>Relator</td><td>&nbsp;</td><td align="left" style="border-style:Solid;">
+                                                                        <div>
+
+		</div>
+                                                                    </td>
+	</tr>
+	</tbody>
+
+</table><input id="ctl00_ContentPlaceHolder1_grdEvents_ClientState" name="ctl00_ContentPlaceHolder1_grdEvents_ClientState" type="hidden" />
+						</div>
+					
+                                                
+				</div>
+                                                <div id="ctl00_ContentPlaceHolder1_Panel2">
+					
+                                                    <br />
+                                                    <span class="TitleBlue">Calendars:</span><br />
+                                                    <div id="ctl00_ContentPlaceHolder1_grdCalendar" class="RadGrid RadGrid_Office2007">
+
+					<table class="rgMasterTable" border="0" id="ctl00_ContentPlaceHolder1_grdCalendar_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col" class="rgHeader">Set Date</th><th scope="col" class="rgHeader">Calendar Type</th><th scope="col" class="rgHeader">Reason Set</th>
+		</tr>
+	</thead><tbody>
+	<tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdCalendar_ctl00__0">
+		<td>12/21/2012</td><td>Retention</td><td>Date civil case will be destroyed (6 yrs after mandate)</td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdCalendar_ctl00__1" style="background-color:WhiteSmoke;">
+		<td>12/21/2012</td><td>Retention</td><td>Strip file 60 days after issuance of mandate</td>
+	</tr>
+	</tbody>
+
+</table><input id="ctl00_ContentPlaceHolder1_grdCalendar_ClientState" name="ctl00_ContentPlaceHolder1_grdCalendar_ClientState" type="hidden" />
+						</div>
+					
+                                                
+				</div>
+                                                <div id="ctl00_ContentPlaceHolder1_Panel1">
+					
+                                                    <br />
+                                                    <span class="TitleBlue">Parties:</span><br />
+                                                    <div id="ctl00_ContentPlaceHolder1_grdParty" class="RadGrid RadGrid_Office2007">
+
+					<table class="rgMasterTable" border="0" id="ctl00_ContentPlaceHolder1_grdParty_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col" class="rgHeader">Party</th><th scope="col" class="rgHeader">PartyType</th><th scope="col" class="rgHeader">Representative</th>
+		</tr>
+	</thead><tbody>
+	<tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdParty_ctl00__0">
+		<td>Ryan , Peter  James</td><td>Real party in interest</td><td>Golda R. Jacob  <br/></td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdParty_ctl00__1" style="background-color:WhiteSmoke;">
+		<td>Ryan, Cecilia  Marie</td><td>Relator</td><td>Keith Alexander Gross  <br/></td>
+	</tr><tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdParty_ctl00__2">
+		<td>Schwab-Radcliffe, Suzanne</td><td>Relator</td><td>Keith Alexander Gross  <br/></td>
+	</tr>
+	</tbody>
+
+</table><input id="ctl00_ContentPlaceHolder1_grdParty_ClientState" name="ctl00_ContentPlaceHolder1_grdParty_ClientState" type="hidden" />
+						</div>
+					
+                                                
+				</div>
+                                                
+                                                
+                                                <div id="ctl00_ContentPlaceHolder1_pnlTrialCourt2">
+					
+                                                    <br />
+                                                    Trial Court Information:
+                                                    <table style="background-color: #A7A895" border="0" cellspacing="0" cellpadding="1"
+                                                        width="100%">
+                                                        <tr>
+                                                            <td>
+                                                                <table style="background-color: #EBEBE2" border="0" cellspacing="0" cellpadding="3"
+                                                                    width="100%">
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Trial Court:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            County Court at Law No 3&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            County:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            Galveston&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Trial Court Judge:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            Honorable Christopher Dupuy&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Trial Court Case #:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            12FD1843&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Trial Court Reporter:
+                                                                        </td>
+                                                                        <td class="TextNormal">
+                                                                            Lisa R. Fort&nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr id="ctl00_ContentPlaceHolder1_trPunishment">
+						<td style="width: 25%; white-space: nowrap;" class="BreadCrumbs">
+                                                                            Punishment:
+                                                                        </td>
+						<td class="TextNormal">
+                                                                            &nbsp;&nbsp;
+                                                                        </td>
+					</tr>
+					
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                
+				</div>
+                                                
+                                                <br />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+			</tr>
+		</table>
+		
+        <!--hr / -->
+        <!-- -->
+        <!-- -->
+        <!-- -->
+        <!-- -->
+        <br />
+        <br />
+        
+    </div>
+    <!--End of form-->
+    <div id="content-bottom">
+        
+    </div>
+    <div id="adobeNote">
+        <hr />
+        <p style="font-size: 12px; font-family: Tahoma, Arial, sans-serif;">
+            To view or print PDF files you must have the Adobe Acrobat&reg; reader. This software
+            may be obtained without charge from Adobe. <a href="http://www.adobe.com/products/acrobat/readstep2.html"
+                target="_blank">Download the reader from the Adobe Web site</a>
+        </p>
+    </div>
+
+                                        <br />
+                                        <!--End of form-->
+                                    </div>
+                                </div>
+                                <!--End of content-middle2-->
+                                <div id="content-bottom">
+                                    <div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+	</tr>
+</table>
+
+            <!--PAGE FOOTER modules-->
+            
+            
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadGrid, {"ClientID":"ctl00_ContentPlaceHolder1_grdBriefs","ClientSettings":{"AllowAutoScrollOnDragDrop":true,"ShouldCreateRows":true,"DataBinding":{},"Selecting":{"CellSelectionMode":0},"Scrolling":{},"Resizing":{},"ClientMessages":{},"KeyboardNavigationSettings":{"AllowActiveRowCycle":false,"EnableKeyboardShortcuts":true,"FocusKey":89,"InitInsertKey":73,"RebindKey":82,"ExitEditInsertModeKey":27,"UpdateInsertItemKey":13,"DeleteActiveRow":127,"ExpandDetailTableKey":39,"CollapseDetailTableKey":37},"Animation":{}},"Skin":"Office2007","UniqueID":"ctl00$ContentPlaceHolder1$grdBriefs","_activeRowIndex":"","_controlToFocus":"","_currentPageIndex":0,"_editIndexes":"[]","_embeddedSkin":true,"_gridTableViewsData":"[{\"ClientID\":\"ctl00_ContentPlaceHolder1_grdBriefs_ctl00\",\"UniqueID\":\"ctl00$ContentPlaceHolder1$grdBriefs$ctl00\",\"PageSize\":10,\"PageCount\":1,\"EditMode\":\"EditForms\",\"AllowPaging\":false,\"CurrentPageIndex\":0,\"VirtualItemCount\":0,\"AllowMultiColumnSorting\":false,\"AllowNaturalSort\":true,\"AllowFilteringByColumn\":false,\"PageButtonCount\":10,\"HasDetailTables\":false,\"PagerAlwaysVisible\":true,\"IsItemInserted\":false,\"clientDataKeyNames\":[],\"_dataBindTemplates\":false,\"_selectedItemStyle\":\"\",\"_selectedItemStyleClass\":\"rgSelectedRow\",\"_columnsData\":[{\"UniqueName\":\"EventDate\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.DateTime\",\"DataField\":\"EventDate\",\"DataFormatString\":\"{0:MM/dd/yyyy}\",\"Display\":true},{\"UniqueName\":\"EventType\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"EventType\",\"Display\":true},{\"UniqueName\":\"Description\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Description\",\"Display\":true},{\"UniqueName\":\"TemplateColumn\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridTemplateColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"\",\"ReadOnly\":true,\"Display\":true}]}]","_masterClientID":"ctl00_ContentPlaceHolder1_grdBriefs_ctl00","_shouldFocusOnPage":false,"allowMultiRowSelection":false,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdBriefs_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder1_grdBriefs"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadGrid, {"ClientID":"ctl00_ContentPlaceHolder1_grdEvents","ClientSettings":{"AllowAutoScrollOnDragDrop":true,"ShouldCreateRows":true,"DataBinding":{},"Selecting":{"CellSelectionMode":0},"Scrolling":{},"Resizing":{},"ClientMessages":{},"KeyboardNavigationSettings":{"AllowActiveRowCycle":false,"EnableKeyboardShortcuts":true,"FocusKey":89,"InitInsertKey":73,"RebindKey":82,"ExitEditInsertModeKey":27,"UpdateInsertItemKey":13,"DeleteActiveRow":127,"ExpandDetailTableKey":39,"CollapseDetailTableKey":37},"Animation":{}},"Skin":"Office2007","UniqueID":"ctl00$ContentPlaceHolder1$grdEvents","_activeRowIndex":"","_controlToFocus":"","_currentPageIndex":0,"_editIndexes":"[]","_embeddedSkin":true,"_gridTableViewsData":"[{\"ClientID\":\"ctl00_ContentPlaceHolder1_grdEvents_ctl00\",\"UniqueID\":\"ctl00$ContentPlaceHolder1$grdEvents$ctl00\",\"PageSize\":10,\"PageCount\":1,\"EditMode\":\"EditForms\",\"AllowPaging\":false,\"CurrentPageIndex\":0,\"VirtualItemCount\":0,\"AllowMultiColumnSorting\":false,\"AllowNaturalSort\":true,\"AllowFilteringByColumn\":false,\"PageButtonCount\":10,\"HasDetailTables\":false,\"PagerAlwaysVisible\":true,\"IsItemInserted\":false,\"clientDataKeyNames\":[],\"_dataBindTemplates\":false,\"_selectedItemStyle\":\"\",\"_selectedItemStyleClass\":\"rgSelectedRow\",\"_columnsData\":[{\"UniqueName\":\"EventDate\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"EventDate\",\"Display\":true},{\"UniqueName\":\"EventType\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"EventType\",\"Display\":true},{\"UniqueName\":\"Description\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Description\",\"Display\":true},{\"UniqueName\":\"Disposition\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Disposition\",\"Display\":true},{\"UniqueName\":\"TemplateColumn\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridTemplateColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"\",\"ReadOnly\":true,\"Display\":true}]}]","_masterClientID":"ctl00_ContentPlaceHolder1_grdEvents_ctl00","_shouldFocusOnPage":false,"allowMultiRowSelection":false,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdEvents_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder1_grdEvents"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadGrid, {"ClientID":"ctl00_ContentPlaceHolder1_grdCalendar","ClientSettings":{"AllowAutoScrollOnDragDrop":true,"ShouldCreateRows":true,"DataBinding":{},"Selecting":{"CellSelectionMode":0},"Scrolling":{},"Resizing":{},"ClientMessages":{},"KeyboardNavigationSettings":{"AllowActiveRowCycle":false,"EnableKeyboardShortcuts":true,"FocusKey":89,"InitInsertKey":73,"RebindKey":82,"ExitEditInsertModeKey":27,"UpdateInsertItemKey":13,"DeleteActiveRow":127,"ExpandDetailTableKey":39,"CollapseDetailTableKey":37},"Animation":{}},"Skin":"Office2007","UniqueID":"ctl00$ContentPlaceHolder1$grdCalendar","_activeRowIndex":"","_controlToFocus":"","_currentPageIndex":0,"_editIndexes":"[]","_embeddedSkin":true,"_gridTableViewsData":"[{\"ClientID\":\"ctl00_ContentPlaceHolder1_grdCalendar_ctl00\",\"UniqueID\":\"ctl00$ContentPlaceHolder1$grdCalendar$ctl00\",\"PageSize\":10,\"PageCount\":1,\"EditMode\":\"EditForms\",\"AllowPaging\":false,\"CurrentPageIndex\":0,\"VirtualItemCount\":0,\"AllowMultiColumnSorting\":false,\"AllowNaturalSort\":true,\"AllowFilteringByColumn\":false,\"PageButtonCount\":10,\"HasDetailTables\":false,\"PagerAlwaysVisible\":true,\"IsItemInserted\":false,\"clientDataKeyNames\":[],\"_dataBindTemplates\":false,\"_selectedItemStyle\":\"\",\"_selectedItemStyleClass\":\"rgSelectedRow\",\"_columnsData\":[{\"UniqueName\":\"SetDate\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"SetDate\",\"Display\":true},{\"UniqueName\":\"CalendarType\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"CalendarType\",\"Display\":true},{\"UniqueName\":\"ReasonSet\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"ReasonSet\",\"Display\":true}]}]","_masterClientID":"ctl00_ContentPlaceHolder1_grdCalendar_ctl00","_shouldFocusOnPage":false,"allowMultiRowSelection":false,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdCalendar_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder1_grdCalendar"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadGrid, {"ClientID":"ctl00_ContentPlaceHolder1_grdParty","ClientSettings":{"AllowAutoScrollOnDragDrop":true,"ShouldCreateRows":true,"DataBinding":{},"Selecting":{"CellSelectionMode":0},"Scrolling":{},"Resizing":{},"ClientMessages":{},"KeyboardNavigationSettings":{"AllowActiveRowCycle":false,"EnableKeyboardShortcuts":true,"FocusKey":89,"InitInsertKey":73,"RebindKey":82,"ExitEditInsertModeKey":27,"UpdateInsertItemKey":13,"DeleteActiveRow":127,"ExpandDetailTableKey":39,"CollapseDetailTableKey":37},"Animation":{}},"Skin":"Office2007","UniqueID":"ctl00$ContentPlaceHolder1$grdParty","_activeRowIndex":"","_controlToFocus":"","_currentPageIndex":0,"_editIndexes":"[]","_embeddedSkin":true,"_gridTableViewsData":"[{\"ClientID\":\"ctl00_ContentPlaceHolder1_grdParty_ctl00\",\"UniqueID\":\"ctl00$ContentPlaceHolder1$grdParty$ctl00\",\"PageSize\":10,\"PageCount\":1,\"EditMode\":\"EditForms\",\"AllowPaging\":false,\"CurrentPageIndex\":0,\"VirtualItemCount\":0,\"AllowMultiColumnSorting\":false,\"AllowNaturalSort\":true,\"AllowFilteringByColumn\":false,\"PageButtonCount\":10,\"HasDetailTables\":false,\"PagerAlwaysVisible\":true,\"IsItemInserted\":false,\"clientDataKeyNames\":[],\"_dataBindTemplates\":false,\"_selectedItemStyle\":\"\",\"_selectedItemStyleClass\":\"rgSelectedRow\",\"_columnsData\":[{\"UniqueName\":\"Party\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Party\",\"Display\":true},{\"UniqueName\":\"PartyType\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"PartyType\",\"Display\":true},{\"UniqueName\":\"Attorney\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Attorney\",\"Display\":true}]}]","_masterClientID":"ctl00_ContentPlaceHolder1_grdParty_ctl00","_shouldFocusOnPage":false,"allowMultiRowSelection":false,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdParty_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder1_grdParty"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

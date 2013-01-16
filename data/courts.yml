@@ -1,0 +1,63 @@
+---
+1:
+  name: First Court of Appeals
+  city: Houston
+  scraper: TAMESScraper
+2:
+  name: Second Court of Appeals
+  city: Fort Worth
+  scraper: OldSystemScraper
+  site: http://www.2ndcoa.courts.state.tx.us
+3:
+  name: Third Court of Appeals
+  city: Austin
+  scraper: OldSystemScraper
+  site: http://www.3rdcoa.courts.state.tx.us
+4:
+  name: Fourth Court of Appeals
+  city: San Antonio
+  scraper: TAMESScraper
+5:
+  name: Fifth Court of Appeals
+  city: Dallas
+  scraper: TAMESScraper
+6:
+  name: Sixth Court of Appeals
+  city: Texarkana
+  scraper: TAMESScraper
+7:
+  name: Seventh Court of Appeals
+  city: Amarillo
+  scraper: OldSystemScraper
+  site: http://www.7thcoa.courts.state.tx.us
+8:
+  name: Eighth Court of Appeals
+  city: El Paso
+  scraper: OldSystemScraper
+  site: http://www.8thcoa.courts.state.tx.us
+9:
+  name: Ninth Court of Appeals
+  city: Texarkana
+  scraper: TAMESScraper
+10:
+  name: Tenth Court of Appeals
+  city: Waco
+  scraper: OldSystemScraper
+  site: http://www.10thcoa.courts.state.tx.us
+11:
+  name: Eleventh Court of Appeals
+  city: Eastland
+  scraper: OldSystemScraper
+  site: http://www.11thcoa.courts.state.tx.us
+12:
+  name: Twelfth Court of Appeals
+  city: Tyler
+  scraper: TAMESScraper
+13:
+  name: Thirteenth Court of Appeals
+  city: Corpus Christi/Edunburg
+  scraper: TAMESScraper
+14:
+  name: Fourteenth Court of Appeals
+  city: Houston
+  scraper: TAMESScraper

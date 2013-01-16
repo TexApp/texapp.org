@@ -1,0 +1,11 @@
+= succeed ', ' do
+  %em<>= opinion.case.style
+%a.document{:href => "/#{opinion.case.docket_number}?md5=#{opinion.md5sum}"}= opinion.case.docket_number
+= surround ' (', ')' do
+  = "Ct. App.—#{CITIES[opinion.case.court]}"
+  - if opinion.case.court == 14
+    [14th]
+  - if opinion.case.court == 1
+    [1st]
+
+  = bluebook_date(opinion.date)

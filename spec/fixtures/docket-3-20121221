@@ -1,0 +1,268 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASP.NET_SessionId=c4dfxnzxfq4w4hiyflm1xa55; path=/; HttpOnly
+X-AspNet-Version: 2.0.50727
+X-Powered-By: ASP.NET
+Date: Tue, 15 Jan 2013 17:58:25 GMT
+Content-Length: 37404
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="title" content="Case Mail Case Search" /><meta name="description" content="Case Mail case search" /><meta name="keywords" content="Texas Court of Appeals CaseMail, CaseMail, Case Mail" /><meta name="category" content="Government" /><meta name="author" content="Texas Office of Court Administration" /><meta name="copyright" content="Texas Courts Online (TCO) - 2006" /><meta name="rating" content="General" /><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.courts.state.tx.us/&quot; on &quot;2000.04.11T20:10-0800&quot; r (n 0 s 0 v 0 l 0))" /><meta name="ROBOTS" content="NOINDEX, NOFOLLOW" /><link media="all" href="css/styles2.css" type="text/css" rel="stylesheet" /><meta content="MSHTML 6.00.2900.2873" name="GENERATOR" /><title>
+	TAMES SEARCH - First Court of Appeals
+</title><link media="all" type="text/css" rel="stylesheet" href="css/styles2.css" /><link media="all" type="text/css" rel="stylesheet" href="css/oca.css" /><link media="all" type="text/css" rel="stylesheet" href="css/nav.css" /><link media="all" type="text/css" rel="stylesheet" href="css/tco.css" />
+        <script type="text/javascript">
+            var baseUrl = '/';
+        </script>
+    
+
+    <script language="javascript" type="text/javascript" src='scripts/functions.js'></script>
+
+    
+<link href="/WebResource.axd?d=GTSzIlOPpfKejlSW5WgbYji3YOhZn3Je74cKQOokPFlC5qVsYGJBbAqp9Vz4rqWby3hP1-_mJNJLrswtTuaGcUx7F_i8QrEQtldCRfpz6ooTX6DN09own9cQFVZkIPf86spZGA2&amp;t=634787345660000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=DplgfFn3s2JCSn0UE7t_Cm1fsZzAGDXwvgA_pPpbby4IC_Hru-zujpviQU26HQq4NCSOMbZcZFjnEWEeIMd_q0sP_wbPGxEAIRs58wyOyv7LC9CxOm8yVLSk6cq-b7MB8M2aEXXR2jgdQc6Y7225LlXY1yDJv0bh7gJOOBX7V0r4OjrD0&amp;t=634787345660000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=tobkG2d9I6g1KCi45QRZ9ne4H3Tgc8mYJdcCJgjfbr1x26pv-b60vMVBlLWVBQ-MJXd_xkcnft1afqQQWUTT9mCcShHCJwQ_iRlxxTD38JRo66bkdNEUoU5lCo6Lw60l9UhELA2&amp;t=634787345660000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=c0JdaFRyHsRTt8Wk_lOfqmZxaiZDBFQiRlEea9dSZd-DW71jsButr-29Af0TI-waVKjt0Y2xB14oOjc47-EyGFXXNQi6rBgH6lIjO0eZI6OVkM9jJoIpCdZYfKEw4wwJ15cORDOdpLKuEBuxcTl8TBuwWEU1&amp;t=634787345660000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="home">
+    <form name="aspnetForm" method="post" action="Docket.aspx?coa=coa01&amp;FullDate=12%2f21%2f2012&amp;p=1" id="aspnetForm">
+<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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AgUGJm5ic3A7ZGQCAg8PFgIeBF9paWgFATBkFhJmDw8WAh8AaGRkAgEPDxYEHwIFBiZuYnNwOx8AaGRkAgIPDxYCHwJlZBYGAgEPDxYCHgtOYXZpZ2F0ZVVybAUbQ2FzZS5hc3B4P2NuPTAxLTEyLTAwNTg0LUNWZBYCZg8VAQ4wMS0xMi0wMDU4NC1DVmQCAw8PFgQfAgWSAjxiPk9wZW4gRG9jdW1lbnQ8L2I+IGJ5IGNsaWNraW5nIHRoZSBoeXBlcmxpbms8YnIvPjxici8+PGI+Q29weSBIeXBlcmxpbms8L2I+IHRvIGNsaXBib2FyZCBieSByaWdodCBjbGlja2luZyBhbmQgc2VsZWN0aW5nIDxiPkNvcHkgU2hvcnRjdXQ8L2I+IChJbnRlcm5ldCBFeHBsb3JlciksIDxiPkNvcHkgTGluayBBZGRyZXNzPC9iPiAoRmlyZWZveCksIDxiPkNvcHkgTGluazwvYj4gKFNhZmFyaSksIG9yIHRoZSBjb3B5IGZlYXR1cmUgcGVydGluZW50IHRvIHlvdXIgYnJvd3Nlci4fB2hkZAIFDzwrAA0BAA8WBB8GZx8EAgFkFgJmD2QWBmYPDxYCHwBoZGQCAQ9kFgRmDw8WAh8CBShNZW1vcmFuZHVtIE9waW5pb24gYnkgSnVzdGljZSBNYXNzZW5nYWxlZGQCAQ9kFgJmDw8WBB8CBQkgWyBQREYgXSAfEwWGAVNlYXJjaE1lZGlhLmFzcHg/TWVkaWFWZXJzaW9uSUQ9YjY5MzhiZjMtY2NjYS00OTQ5LTk1NjktZGNjMTcwMWVlMjRjJk1lZGlhSUQ9NDM2ZGFkZTEtZDMwMC00MmQ5LWJhNjQtMGY4MjQ2YTgyYmJhJmNvYT1jb2EwMSZEVD1PcGluaW9uZGQCAg8PFgIfAGhkZAIDDw8WAh8CBVlJbiB0aGUgSW50ZXJlc3Qgb2YgSy5OLkQuLCBhIENoaWxkIHYuIC0tQXBwZWFsIGZyb20gMzE0dGggRGlzdHJpY3QgQ291cnQgb2YgSGFycmlzIENvdW50eWRkAgQPDxYIHwIFTEFGRklSTSBUQyBKVURHTUVOVCBJTiBQQVJULCBSRVZFUlNFIFRDIEpVREdNRU5UIElOIFBBUlQsIEFORCBSRU5ERVIgSlVER01FTlQeCUZvbnRfQm9sZGceC0JvcmRlclN0eWxlCyolU3lzdGVtLldlYi5VSS5XZWJDb250cm9scy5Cb3JkZXJTdHlsZQQeBF8hU0ICwBBkZAIFDw8WAh8CBTtKdXN0aWNlIEtleWVzPGJyLz5KdXN0aWNlIE1hc3NlbmdhbGU8YnIvPkp1c3RpY2UgQnJvd248YnIvPmRkAgYPDxYEHwIFJDZkNjFiZGY3LTc0YzMtNDgwMS1iYTk1LWE5MDVhMGQ0YjZhNB8AaGRkAgcPDxYEHwIFJDczNjliYTI2LTUwMGEtNDJmNS1hMGRkLTg1YWVhMWEzYzY2Mh8AaGRkAggPDxYEHwIFDjAxLTEyLTAwNTg0LUNWHwBoZGQCAw9kFgJmDw8WAh8AaGRkAgQPDxYCHxIFATFkFhJmDw8WAh8AaGRkAgEPDxYEHwIFBiZuYnNwOx8AaGRkAgIPDxYCHwJlZBYGAgEPDxYCHxMFG0Nhc2UuYXNweD9jbj0wMS0xMi0wMDU4NC1DVmQWAmYPFQEOMDEtMTItMDA1ODQtQ1ZkAgMPDxYEHwIFkgI8Yj5PcGVuIERvY3VtZW50PC9iPiBieSBjbGlja2luZyB0aGUgaHlwZXJsaW5rPGJyLz48YnIvPjxiPkNvcHkgSHlwZXJsaW5rPC9iPiB0byBjbGlwYm9hcmQgYnkgcmlnaHQgY2xpY2tpbmcgYW5kIHNlbGVjdGluZyA8Yj5Db3B5IFNob3J0Y3V0PC9iPiAoSW50ZXJuZXQgRXhwbG9yZXIpLCA8Yj5Db3B5IExpbmsgQWRkcmVzczwvYj4gKEZpcmVmb3gpLCA8Yj5Db3B5IExpbms8L2I+IChTYWZhcmkpLCBvciB0aGUgY29weSBmZWF0dXJlIHBlcnRpbmVudCB0byB5b3VyIGJyb3dzZXIuHwdoZGQCBQ88KwANAQAPFgQfBmcfBAIBZBYCZg9kFgZmDw8WAh8AaGRkAgEPZBYEZg8PFgIfAgUuRGlzc2VudGluZyBNZW1vcmFuZHVtIE9waW5pb24gYnkgSnVzdGljZSBLZXllc2RkAgEPZBYCZg8PFgQfAgUJIFsgUERGIF0gHxMFhgFTZWFyY2hNZWRpYS5hc3B4P01lZGlhVmVyc2lvbklEPTNiMThhZWExLTZlN2MtNDA5Ni04OWQxLWM3NjE2ZDE0N2NkZiZNZWRpYUlEPWJmMTViNjY0LTM5NjgtNGU4Ni1iNjYyLWY3ODU2MTNhOGY0MiZjb2E9Y29hMDEmRFQ9T3BpbmlvbmRkAgIPDxYCHwBoZGQCAw8PFgIfAgVZSW4gdGhlIEludGVyZXN0IG9mIEsuTi5ELiwgYSBDaGlsZCB2LiAtLUFwcGVhbCBmcm9tIDMxNHRoIERpc3RyaWN0IENvdXJ0IG9mIEhhcnJpcyBDb3VudHlkZAIEDw8WCB8CBStPUElOSU9OIERJU1NFTlRJTkcgVE8gVEhJUyBDT1VSVCdTIEpVREdNRU5UHxRnHxULKwgEHxYCwBBkZAIFDw8WAh8CBTtKdXN0aWNlIEtleWVzPGJyLz5KdXN0aWNlIE1hc3NlbmdhbGU8YnIvPkp1c3RpY2UgQnJvd248YnIvPmRkAgYPDxYEHwIFJDZhNmQ0OWRhLTM3MjAtNDc1Ni1iMzI3LTMwY2JhMGNjMTc0MB8AaGRkAgcPDxYEHwIFJDY2NDkyMGZjLWQyZmUtNDQ5MS1iOTM0LWU3ZGE5N2M1NDMxMh8AaGRkAggPDxYEHwIFDjAxLTEyLTAwNTg0LUNWHwBoZGQCBQ9kFgJmDw8WAh8AaGRkAgYPDxYCHxIFATJkFhJmDw8WAh8AaGRkAgEPDxYEHwIFBiZuYnNwOx8AaGRkAgIPDxYCHwJlZBYGAgEPDxYCHxMFG0Nhc2UuYXNweD9jbj0wMS0xMi0wMTAxMy1DVmQWAmYPFQEOMDEtMTItMDEwMTMtQ1ZkAgMPDxYEHwIFkgI8Yj5PcGVuIERvY3VtZW50PC9iPiBieSBjbGlja2luZyB0aGUgaHlwZXJsaW5rPGJyLz48YnIvPjxiPkNvcHkgSHlwZXJsaW5rPC9iPiB0byBjbGlwYm9hcmQgYnkgcmlnaHQgY2xpY2tpbmcgYW5kIHNlbGVjdGluZyA8Yj5Db3B5IFNob3J0Y3V0PC9iPiAoSW50ZXJuZXQgRXhwbG9yZXIpLCA8Yj5Db3B5IExpbmsgQWRkcmVzczwvYj4gKEZpcmVmb3gpLCA8Yj5Db3B5IExpbms8L2I+IChTYWZhcmkpLCBvciB0aGUgY29weSBmZWF0dXJlIHBlcnRpbmVudCB0byB5b3VyIGJyb3dzZXIuHwdoZGQCBQ88KwANAQAPFgQfBmcfBAIBZBYCZg9kFgZmDw8WAh8AaGRkAgEPZBYEZg8PFgIfAgUkTWVtb3JhbmR1bSBPcGluaW9uIGJ5IEp1c3RpY2UgSGlnbGV5ZGQCAQ9kFgJmDw8WBB8CBQkgWyBQREYgXSAfEwWGAVNlYXJjaE1lZGlhLmFzcHg/TWVkaWFWZXJzaW9uSUQ9NDg2YzU1ZmMtNDRkYi00NTcwLWExZmUtY2ViODg4MTNmMjg1Jk1lZGlhSUQ9YjgxNTQ4YTAtNzcxZS00Y2FhLWI1YmItNTFlYTAxMmUyYjk0JmNvYT1jb2EwMSZEVD1PcGluaW9uZGQCAg8PFgIfAGhkZAIDDw8WAh8CBXxJbiByZSBDZWNpbGlhIE1hcmllIFJ5YW4gYW5kIEF0dG9ybmV5IFN1emFubmUgU2Nod2FiLVJhZGNsaWZmZSB2LiAtLUFwcGVhbCBmcm9tIENvdW50eSBDb3VydCBhdCBMYXcgTm8gMyBvZiBHYWx2ZXN0b24gQ291bnR5ZGQCBA8PFggfAgUjR1JBTlQgUEVUSVRJT04gRk9SIFdSSVQgT0YgTUFOREFNVVMfFGcfFQsrCAQfFgLAEGRkAgUPDxYCHwIFQ0NoaWVmIEp1c3RpY2UgUmFkYWNrPGJyLz5KdXN0aWNlIEhpZ2xleTxici8+SnVzdGljZSBNYXNzZW5nYWxlPGJyLz5kZAIGDw8WBB8CBSRmZjM1NzYzOS1kNzQwLTRmMzMtOWZmMC0zNTM3YWJkMGZiZjYfAGhkZAIHDw8WBB8CBSRiNGU5YTI0MC01NWI0LTQzMmQtOTljZi02YjFlZjZkMjgzMDAfAGhkZAIIDw8WBB8CBQ4wMS0xMi0wMTAxMy1DVh8AaGRkAgcPZBYCZg8PFgIfAGhkZAIIDw8WAh8SBQEzZBYSZg8PFgIfAGhkZAIBDw8WBB8CBQYmbmJzcDsfAGhkZAICDw8WAh8CZWQWBgIBDw8WAh8TBRtDYXNlLmFzcHg/Y249MDEtMTItMDEwMjItQ1ZkFgJmDxUBDjAxLTEyLTAxMDIyLUNWZAIDDw8WBB8CBZICPGI+T3BlbiBEb2N1bWVudDwvYj4gYnkgY2xpY2tpbmcgdGhlIGh5cGVybGluazxici8+PGJyLz48Yj5Db3B5IEh5cGVybGluazwvYj4gdG8gY2xpcGJvYXJkIGJ5IHJpZ2h0IGNsaWNraW5nIGFuZCBzZWxlY3RpbmcgPGI+Q29weSBTaG9ydGN1dDwvYj4gKEludGVybmV0IEV4cGxvcmVyKSwgPGI+Q29weSBMaW5rIEFkZHJlc3M8L2I+IChGaXJlZm94KSwgPGI+Q29weSBMaW5rPC9iPiAoU2FmYXJpKSwgb3IgdGhlIGNvcHkgZmVhdHVyZSBwZXJ0aW5lbnQgdG8geW91ciBicm93c2VyLh8HaGRkAgUPPCsADQEADxYEHwZnHwQCAWQWAmYPZBYGZg8PFgIfAGhkZAIBD2QWBGYPDxYCHwIFJE1lbW9yYW5kdW0gT3BpbmlvbiBieSBKdXN0aWNlIEhpZ2xleWRkAgEPZBYCZg8PFgQfAgUJIFsgUERGIF0gHxMFhgFTZWFyY2hNZWRpYS5hc3B4P01lZGlhVmVyc2lvbklEPTBkOTkwNWM0LWQxMjMtNGNiMi04MDgyLWU1ZDJkNjFlM2NlNyZNZWRpYUlEPTllOWQ1ODQ1LWFiZTMtNDE1NC04OTEzLWEzMTZhOWE1Y2Q0OSZjb2E9Y29hMDEmRFQ9T3BpbmlvbmRkAgIPDxYCHwBoZGQCAw8PFgIfAgV8SW4gcmUgQ2VjaWxpYSBNYXJpZSBSeWFuIGFuZCBBdHRvcm5leSBTdXphbm5lIFNjaHdhYi1SYWRjbGlmZmUgdi4gLS1BcHBlYWwgZnJvbSBDb3VudHkgQ291cnQgYXQgTGF3IE5vIDMgb2YgR2FsdmVzdG9uIENvdW50eWRkAgQPDxYIHwIFI0dSQU5UIFBFVElUSU9OIEZPUiBXUklUIE9GIE1BTkRBTVVTHxRnHxULKwgEHxYCwBBkZAIFDw8WAh8CBUNDaGllZiBKdXN0aWNlIFJhZGFjazxici8+SnVzdGljZSBIaWdsZXk8YnIvPkp1c3RpY2UgTWFzc2VuZ2FsZTxici8+ZGQCBg8PFgQfAgUkMjAwZTdmNTItZjUyMS00Y2ZlLWEyODMtZmQwNjBlOTNmYzFlHwBoZGQCBw8PFgQfAgUkNDI2ZGI0YzYtNTE4My00OGE4LWFiYzEtNmNkYjYxODZkZTIxHwBoZGQCCA8PFgQfAgUOMDEtMTItMDEwMjItQ1YfAGhkZAIJD2QWAmYPDxYCHwBoZGQCAw9kFgICAw88KwANAgAUKwACDxYIHwQCAR8FBQhkc0RvY2tldB8GZx8HaGQXAgUPU2VsZWN0ZWRJbmRleGVzFgAFC0VkaXRJbmRleGVzFgABFgIWCg8CBxQrAAc8KwAFAQAWAh8IAgI8KwAFAQAWBB8IAgMfCRkrAjwrAAUBABYEHwgCBB8JGSsCPCsABQEAFgQfCAIFHwkZKwI8KwAFAQAWBB8IAgYfCRkrBDwrAAUBABYEHwgCBx8JGSsEPCsABQEAFgQfCAIIHwkZKwJkZRQrAAALKwUBPCsABwALKwYBZGQWEB8EZh8KBQhkc0RvY2tldB8FBQhkc0RvY2tldB8MZx8NFwAfDhYAHwZnHw9oZhYEZg8UKwADZGRkZAIBDxYEFCsAAg8WEB8EZh8KBQhkc0RvY2tldB8FBQhkc0RvY2tldB8MZx8NFwAfDhYAHwZnHw9oZBcDBQZfIURTSUNmBQtfIUl0ZW1Db3VudGYFCF8hUENvdW50ZBYCHxAWAh8RZmQWB2RkZGRkZGQWAmYPZBYGZg9kFgJmD2QWEmYPDxYEHwIFBiZuYnNwOx8AaGRkAgEPDxYEHwIFBiZuYnNwOx8AaGRkAgIPDxYCHwIFC0Nhc2UgTnVtYmVyZGQCAw8PFgIfAgUFU3R5bGVkZAIEDw8WAh8CBQtEaXNwb3NpdGlvbmRkAgUPDxYCHwIFBkp1ZGdlc2RkAgYPDxYEHwIFB0V2ZW50SUQfAGhkZAIHDw8WBB8CBRBPcGluaW9uSURGb3JIVE1MHwBoZGQCCA8PFgQfAgUKQ2FzZU51bWJlch8AaGRkAgEPDxYCHwBoZBYCZg9kFhJmDw8WAh8CBQYmbmJzcDtkZAIBDw8WAh8CBQYmbmJzcDtkZAICDw8WAh8CBQYmbmJzcDtkZAIDDw8WAh8CBQYmbmJzcDtkZAIEDw8WAh8CBQYmbmJzcDtkZAIFDw8WAh8CBQYmbmJzcDtkZAIGDw8WAh8CBQYmbmJzcDtkZAIHDw8WAh8CBQYmbmJzcDtkZAIIDw8WAh8CBQYmbmJzcDtkZAICD2QWBmYPDxYCHwBoZGQCAQ8PFgIfAGhkZAICDw8WAh4KQ29sdW1uU3BhbgIEFgIeBXN0eWxlBRB0ZXh0LWFsaWduOmxlZnQ7ZAIFDw9kDxAWAmYCARYCFgIeDlBhcmFtZXRlclZhbHVlBQoxMi8yMS8yMDEyFgIfGWQWAgIEAgNkZAIBDxYCHwBoFggCAQ8PFgIfAGhkFgICAw8PZA8QFgFmFgEWAh8ZZBYBAgNkZAIDDw8WAh8AaGQWAgIDDw9kDxAWAWYWARYCHxlkFgECA2RkAgUPDxYCHwBoZBYCAgUPDxYCHwBnZBYMAgEPFgIeBGhyZWYFOmh0dHBzOi8vd3d3LjFzdGNvYS5jb3VydHMuc3RhdGUudHgudXMvbWVtYmVycy9tZW1iZXJzLmFzcHhkAgMPFgIfGgU8aHR0cHM6Ly93d3cuMXN0Y29hLmNvdXJ0cy5zdGF0ZS50eC51cy9tZW1iZXJzL2Nhc2V3YXRjaC5hc3B4ZAIFDxYCHxoFP2h0dHBzOi8vd3d3LjFzdGNvYS5jb3VydHMuc3RhdGUudHgudXMvbWVtYmVycy9vcGluaW9ud2F0Y2guYXNweGQCBw8WAh8aBT9odHRwczovL3d3dy4xc3Rjb2EuY291cnRzLnN0YXRlLnR4LnVzL21lbWJlcnMvY3JlYXRlbWVtYmVyLmFzcHhkAgkPFgIfGgU8aHR0cDovL3d3dy4xc3Rjb2EuY291cnRzLnN0YXRlLnR4LnVzL2NvbW1vbi9jbWFpbF9iYXNpY3MuYXNwZAILDxYCHxoFOmh0dHA6Ly93d3cuMXN0Y29hLmNvdXJ0cy5zdGF0ZS50eC51cy9jb21tb24vY21haWxfZmFxcy5hc3BkAgcPDxYCHwBoZGQCBw8PFgIfAGhkFgQCBQ8PFgIfAGdkFgICAQ8WAh8BBTVodHRwOi8vd3d3LnR4Y291cnRzLmdvdi9zZWFscy9mb290ZXIvdHhzZWFsX3NtYWxsLmpwZ2QCCQ8PZA8QFgFmFgEWAh8ZZBYBAgNkZAIJDw8WAh8CBR93d3cuc2VhcmNoLnR4Y291cnRzLmdvdip8KmNvYTAxZGQYBQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgYFI2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRG9ja2V0BTpjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZERvY2tldCRjdGwwMCRjdGwwNCRydHRsbmtDYXNlBTpjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZERvY2tldCRjdGwwMCRjdGwwNiRydHRsbmtDYXNlBTpjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZERvY2tldCRjdGwwMCRjdGwwOCRydHRsbmtDYXNlBTpjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZERvY2tldCRjdGwwMCRjdGwxMCRydHRsbmtDYXNlBSRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGdyZERvY2tldDIFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRG9ja2V0JGN0bDAwJGN0bDEwJGRkbENvbnRhaW5lcg88KwAKAQgCAWQFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRG9ja2V0JGN0bDAwJGN0bDA4JGRkbENvbnRhaW5lcg88KwAKAQgCAWQFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRG9ja2V0JGN0bDAwJGN0bDA2JGRkbENvbnRhaW5lcg88KwAKAQgCAWQFPGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3JkRG9ja2V0JGN0bDAwJGN0bDA0JGRkbENvbnRhaW5lcg88KwAKAQgCAWRXNENJ5Vsx6A8nWQseCu3WEyVL3w==" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af9903e4d-7650-4261-a97e-57348f3bd2d3%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2012.1.411.35%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a4cad056e-160b-4b85-8751-cc8693e9bcd0%3a16e4e7cd%3a58366029%3af7645509%3a24ee1bba%3af46195d3%3a874f8ea2%3a19620875%3a39040b5c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+    
+    <div>
+    </div>
+    <div id="ctl00_wrapper">
+        <div id="container">
+            
+            <span id="ctl00_txtCourtName" style="display:inline-block;">TAMES SEARCH - First Court of Appeals</span>
+            <table id="ctl00_tblContent" cellspacing="0" cellpadding="0" border="0" width="950px">
+	<tr valign="top">
+		<td width="100%">
+                            <div id="ctl00_content">
+                                <div id="content-top">
+                                    <div>
+                                        <div>
+                                            <!-- top corners and border -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End of content-top-->
+                                <div id="content-middle">
+                                    <div id="content-middle2">
+                                        <div id="topright-decoration">
+                                        </div>
+                                        <!--Begin the form-->
+                                        
+    
+    <div id="ctl00_ContentPlaceHolder1_divData">
+        <table width="100%">
+            <tr>
+                <td style="height: 25" class="TextNormal">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td class="TextNormal">
+                    <table cellpadding="1" width="100%" border="0" style="border-color: #648abd; text-align: center">
+                        <tbody>
+                            <tr>
+                                <td class="TitleBlue">
+                                    <div id="ctl00_ContentPlaceHolder1_pnlEvents">
+			
+                                        
+                                        <span class="TitleBlue">Released Opinions for:
+                                            <span id="ctl00_ContentPlaceHolder1_lblDocketDate">12/21/2012</span>
+                                            
+                                            
+                                            <br />
+                                            <span id="ctl00_ContentPlaceHolder1_lblCaseType">Civil Causes Decided</span></span>
+                                            
+                                            <br />
+                                        <div id="ctl00_ContentPlaceHolder1_grdDocket" class="RadGrid RadGrid_Office2007">
+
+			<!-- 2012.1.411.35 --><table class="rgMasterTable" border="0" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col" class="rgHeader">Case Number</th><th scope="col" class="rgHeader">Style</th><th scope="col" class="rgHeader">Disposition</th><th scope="col" class="rgHeader">Judges</th>
+		</tr>
+	</thead><tbody>
+	<tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00__0">
+		<td style="font-weight:bold;white-space:nowrap;">
+                                                            <a id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_lnkCase" href="Case.aspx?cn=01-12-00584-CV">01-12-00584-CV</a>
+                                                            <div id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_rttlnkCase" style="display:none;position:absolute;">
+			<input id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_rttlnkCase_ClientState" name="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_rttlnkCase_ClientState" type="hidden" />
+		</div>
+                                                            <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_ddlContainer" style="border-style:None;border-collapse:collapse;">
+				<tr style="border-style:None;white-space:nowrap;">
+					<td style="border-style:None;">Memorandum Opinion by Justice Massengale</td><td style="border-style:None;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=b6938bf3-ccca-4949-9569-dcc1701ee24c&amp;MediaID=436dade1-d300-42d9-ba64-0f8246a82bba&amp;coa=coa01&amp;DT=Opinion" target="_blank" style="display:inline-block;border-style:None;"> [ PDF ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                        </td><td style="width:40%;">In the Interest of K.N.D., a Child v. --Appeal from 314th District Court of Harris County</td><td style="border-style:Solid;font-weight:bold;">AFFIRM TC JUDGMENT IN PART, REVERSE TC JUDGMENT IN PART, AND RENDER JUDGMENT</td><td style="white-space:nowrap;">Justice Keyes<br/>Justice Massengale<br/>Justice Brown<br/></td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00__1" style="background-color:WhiteSmoke;">
+		<td style="font-weight:bold;white-space:nowrap;">
+                                                            <a id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_lnkCase" href="Case.aspx?cn=01-12-00584-CV">01-12-00584-CV</a>
+                                                            <div id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_rttlnkCase" style="display:none;position:absolute;">
+			<input id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_rttlnkCase_ClientState" name="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_rttlnkCase_ClientState" type="hidden" />
+		</div>
+                                                            <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_ddlContainer" style="border-style:None;border-collapse:collapse;">
+				<tr style="border-style:None;white-space:nowrap;">
+					<td style="border-style:None;">Dissenting Memorandum Opinion by Justice Keyes</td><td style="border-style:None;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=3b18aea1-6e7c-4096-89d1-c7616d147cdf&amp;MediaID=bf15b664-3968-4e86-b662-f785613a8f42&amp;coa=coa01&amp;DT=Opinion" target="_blank" style="display:inline-block;border-style:None;"> [ PDF ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                        </td><td style="width:40%;">In the Interest of K.N.D., a Child v. --Appeal from 314th District Court of Harris County</td><td style="border-style:Solid;font-weight:bold;">OPINION DISSENTING TO THIS COURT'S JUDGMENT</td><td style="white-space:nowrap;">Justice Keyes<br/>Justice Massengale<br/>Justice Brown<br/></td>
+	</tr><tr class="rgRow" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00__2">
+		<td style="font-weight:bold;white-space:nowrap;">
+                                                            <a id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_lnkCase" href="Case.aspx?cn=01-12-01013-CV">01-12-01013-CV</a>
+                                                            <div id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_rttlnkCase" style="display:none;position:absolute;">
+			<input id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_rttlnkCase_ClientState" name="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_rttlnkCase_ClientState" type="hidden" />
+		</div>
+                                                            <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_ddlContainer" style="border-style:None;border-collapse:collapse;">
+				<tr style="border-style:None;white-space:nowrap;">
+					<td style="border-style:None;">Memorandum Opinion by Justice Higley</td><td style="border-style:None;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=486c55fc-44db-4570-a1fe-ceb88813f285&amp;MediaID=b81548a0-771e-4caa-b5bb-51ea012e2b94&amp;coa=coa01&amp;DT=Opinion" target="_blank" style="display:inline-block;border-style:None;"> [ PDF ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                        </td><td style="width:40%;">In re Cecilia Marie Ryan and Attorney Suzanne Schwab-Radcliffe v. --Appeal from County Court at Law No 3 of Galveston County</td><td style="border-style:Solid;font-weight:bold;">GRANT PETITION FOR WRIT OF MANDAMUS</td><td style="white-space:nowrap;">Chief Justice Radack<br/>Justice Higley<br/>Justice Massengale<br/></td>
+	</tr><tr class="rgAltRow" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00__3" style="background-color:WhiteSmoke;">
+		<td style="font-weight:bold;white-space:nowrap;">
+                                                            <a id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_lnkCase" href="Case.aspx?cn=01-12-01022-CV">01-12-01022-CV</a>
+                                                            <div id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_rttlnkCase" style="display:none;position:absolute;">
+			<input id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_rttlnkCase_ClientState" name="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_rttlnkCase_ClientState" type="hidden" />
+		</div>
+                                                            <div>
+			<table cellspacing="0" align="Left" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_ddlContainer" style="border-style:None;border-collapse:collapse;">
+				<tr style="border-style:None;white-space:nowrap;">
+					<td style="border-style:None;">Memorandum Opinion by Justice Higley</td><td style="border-style:None;white-space:nowrap;"><a href="SearchMedia.aspx?MediaVersionID=0d9905c4-d123-4cb2-8082-e5d2d61e3ce7&amp;MediaID=9e9d5845-abe3-4154-8913-a316a9a5cd49&amp;coa=coa01&amp;DT=Opinion" target="_blank" style="display:inline-block;border-style:None;"> [ PDF ] </a></td>
+				</tr>
+			</table>
+		</div>
+                                                        </td><td style="width:40%;">In re Cecilia Marie Ryan and Attorney Suzanne Schwab-Radcliffe v. --Appeal from County Court at Law No 3 of Galveston County</td><td style="border-style:Solid;font-weight:bold;">GRANT PETITION FOR WRIT OF MANDAMUS</td><td style="white-space:nowrap;">Chief Justice Radack<br/>Justice Higley<br/>Justice Massengale<br/></td>
+	</tr>
+	</tbody>
+
+</table><input id="ctl00_ContentPlaceHolder1_grdDocket_ClientState" name="ctl00_ContentPlaceHolder1_grdDocket_ClientState" type="hidden" />
+				</div>
+			
+                                    
+		</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="TitleBlue">
+                                    <div id="ctl00_ContentPlaceHolder1_Panel1">
+			
+                                        <br />
+                                        <span class="TitleBlue">Criminal Causes Decided
+                                            <span id="ctl00_ContentPlaceHolder1_Label1"></span></span><br />
+                                        <br />
+                                        <div id="ctl00_ContentPlaceHolder1_grdDocket2" class="RadGrid RadGrid_Office2007">
+
+			<table class="rgMasterTable" border="0" id="ctl00_ContentPlaceHolder1_grdDocket2_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col" class="rgHeader">Case Number</th><th scope="col" class="rgHeader">Style</th><th scope="col" class="rgHeader">Disposition</th><th scope="col" class="rgHeader">Judges</th>
+		</tr>
+	</thead><tbody>
+	<tr class="rgNoRecords">
+		<td colspan="4" style="text-align:left;"><div><b>No Case.</b><br/></div></td>
+	</tr>
+	</tbody>
+
+</table><input id="ctl00_ContentPlaceHolder1_grdDocket2_ClientState" name="ctl00_ContentPlaceHolder1_grdDocket2_ClientState" type="hidden" />
+				</div>
+			
+                                    
+		</div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        
+        <!-- 
+        , isnull(D.Description,'') + ' on ' + isnull(C.Description,'') Reason
+        -->
+    </div>
+    <div id="adobeNote">
+        <hr />
+        <p style="font-size: 12px; font-family: Tahoma, Arial, sans-serif;">
+            To view or print PDF files you must have the Adobe Acrobat&reg; reader. This software
+            may be obtained without charge from Adobe. <a href="http://www.adobe.com/products/acrobat/readstep2.html"
+                target="_blank">Download the reader from the Adobe Web site</a>
+        </p>
+    </div>
+
+                                        <br />
+                                        <!--End of form-->
+                                    </div>
+                                </div>
+                                <!--End of content-middle2-->
+                                <div id="content-bottom">
+                                    <div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+	</tr>
+</table>
+
+            <!--PAGE FOOTER modules-->
+            
+            
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":2,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_rttlnkCase_ClientState","formID":"aspnetForm","hideEvent":2,"position":33,"skin":"Outlook","targetControlID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_lnkCase","text":"\u003cb\u003eOpen Document\u003c/b\u003e by clicking the hyperlink\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eCopy Hyperlink\u003c/b\u003e to clipboard by right clicking and selecting \u003cb\u003eCopy Shortcut\u003c/b\u003e (Internet Explorer), \u003cb\u003eCopy Link Address\u003c/b\u003e (Firefox), \u003cb\u003eCopy Link\u003c/b\u003e (Safari), or the copy feature pertinent to your browser.","width":"600px"}, null, null, $get("ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl04_rttlnkCase"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":2,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_rttlnkCase_ClientState","formID":"aspnetForm","hideEvent":2,"position":33,"skin":"Outlook","targetControlID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_lnkCase","text":"\u003cb\u003eOpen Document\u003c/b\u003e by clicking the hyperlink\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eCopy Hyperlink\u003c/b\u003e to clipboard by right clicking and selecting \u003cb\u003eCopy Shortcut\u003c/b\u003e (Internet Explorer), \u003cb\u003eCopy Link Address\u003c/b\u003e (Firefox), \u003cb\u003eCopy Link\u003c/b\u003e (Safari), or the copy feature pertinent to your browser.","width":"600px"}, null, null, $get("ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl06_rttlnkCase"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":2,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_rttlnkCase_ClientState","formID":"aspnetForm","hideEvent":2,"position":33,"skin":"Outlook","targetControlID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_lnkCase","text":"\u003cb\u003eOpen Document\u003c/b\u003e by clicking the hyperlink\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eCopy Hyperlink\u003c/b\u003e to clipboard by right clicking and selecting \u003cb\u003eCopy Shortcut\u003c/b\u003e (Internet Explorer), \u003cb\u003eCopy Link Address\u003c/b\u003e (Firefox), \u003cb\u003eCopy Link\u003c/b\u003e (Safari), or the copy feature pertinent to your browser.","width":"600px"}, null, null, $get("ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl08_rttlnkCase"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":2,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_rttlnkCase_ClientState","formID":"aspnetForm","hideEvent":2,"position":33,"skin":"Outlook","targetControlID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_lnkCase","text":"\u003cb\u003eOpen Document\u003c/b\u003e by clicking the hyperlink\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eCopy Hyperlink\u003c/b\u003e to clipboard by right clicking and selecting \u003cb\u003eCopy Shortcut\u003c/b\u003e (Internet Explorer), \u003cb\u003eCopy Link Address\u003c/b\u003e (Firefox), \u003cb\u003eCopy Link\u003c/b\u003e (Safari), or the copy feature pertinent to your browser.","width":"600px"}, null, null, $get("ctl00_ContentPlaceHolder1_grdDocket_ctl00_ctl10_rttlnkCase"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadGrid, {"ClientID":"ctl00_ContentPlaceHolder1_grdDocket","ClientSettings":{"AllowAutoScrollOnDragDrop":true,"ShouldCreateRows":true,"DataBinding":{},"Selecting":{"CellSelectionMode":0},"Scrolling":{},"Resizing":{},"ClientMessages":{},"KeyboardNavigationSettings":{"AllowActiveRowCycle":false,"EnableKeyboardShortcuts":true,"FocusKey":89,"InitInsertKey":73,"RebindKey":82,"ExitEditInsertModeKey":27,"UpdateInsertItemKey":13,"DeleteActiveRow":127,"ExpandDetailTableKey":39,"CollapseDetailTableKey":37},"Animation":{}},"Skin":"Office2007","UniqueID":"ctl00$ContentPlaceHolder1$grdDocket","_activeRowIndex":"","_controlToFocus":"","_currentPageIndex":0,"_editIndexes":"[]","_embeddedSkin":true,"_gridTableViewsData":"[{\"ClientID\":\"ctl00_ContentPlaceHolder1_grdDocket_ctl00\",\"UniqueID\":\"ctl00$ContentPlaceHolder1$grdDocket$ctl00\",\"PageSize\":10,\"PageCount\":1,\"EditMode\":\"EditForms\",\"AllowPaging\":false,\"CurrentPageIndex\":0,\"VirtualItemCount\":0,\"AllowMultiColumnSorting\":false,\"AllowNaturalSort\":true,\"AllowFilteringByColumn\":false,\"PageButtonCount\":10,\"HasDetailTables\":false,\"PagerAlwaysVisible\":true,\"IsItemInserted\":false,\"clientDataKeyNames\":[],\"_dataBindTemplates\":false,\"_selectedItemStyle\":\"\",\"_selectedItemStyleClass\":\"rgSelectedRow\",\"_columnsData\":[{\"UniqueName\":\"TemplateColumn\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridTemplateColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"\",\"ReadOnly\":true,\"Display\":true},{\"UniqueName\":\"Style\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Style\",\"ReadOnly\":true,\"Display\":true},{\"UniqueName\":\"DispositionType\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"DispositionType\",\"ReadOnly\":true,\"Display\":true},{\"UniqueName\":\"Judges\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Judges\",\"ReadOnly\":true,\"Display\":true}]}]","_masterClientID":"ctl00_ContentPlaceHolder1_grdDocket_ctl00","_shouldFocusOnPage":false,"allowMultiRowSelection":false,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdDocket_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder1_grdDocket"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadGrid, {"ClientID":"ctl00_ContentPlaceHolder1_grdDocket2","ClientSettings":{"AllowAutoScrollOnDragDrop":true,"ShouldCreateRows":true,"DataBinding":{},"Selecting":{"CellSelectionMode":0},"Scrolling":{},"Resizing":{},"ClientMessages":{},"KeyboardNavigationSettings":{"AllowActiveRowCycle":false,"EnableKeyboardShortcuts":true,"FocusKey":89,"InitInsertKey":73,"RebindKey":82,"ExitEditInsertModeKey":27,"UpdateInsertItemKey":13,"DeleteActiveRow":127,"ExpandDetailTableKey":39,"CollapseDetailTableKey":37},"Animation":{}},"Skin":"Office2007","UniqueID":"ctl00$ContentPlaceHolder1$grdDocket2","_activeRowIndex":"","_controlToFocus":"","_currentPageIndex":0,"_editIndexes":"[]","_embeddedSkin":true,"_gridTableViewsData":"[{\"ClientID\":\"ctl00_ContentPlaceHolder1_grdDocket2_ctl00\",\"UniqueID\":\"ctl00$ContentPlaceHolder1$grdDocket2$ctl00\",\"PageSize\":10,\"PageCount\":1,\"EditMode\":\"EditForms\",\"AllowPaging\":false,\"CurrentPageIndex\":0,\"VirtualItemCount\":0,\"AllowMultiColumnSorting\":false,\"AllowNaturalSort\":true,\"AllowFilteringByColumn\":false,\"PageButtonCount\":10,\"HasDetailTables\":false,\"PagerAlwaysVisible\":true,\"IsItemInserted\":false,\"clientDataKeyNames\":[],\"_dataBindTemplates\":false,\"_selectedItemStyle\":\"\",\"_selectedItemStyleClass\":\"rgSelectedRow\",\"_columnsData\":[{\"UniqueName\":\"TemplateColumn\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridTemplateColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"\",\"ReadOnly\":true,\"Display\":true},{\"UniqueName\":\"Style\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Style\",\"ReadOnly\":true,\"Display\":true},{\"UniqueName\":\"DispositionType\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"DispositionType\",\"ReadOnly\":true,\"Display\":true},{\"UniqueName\":\"Judges\",\"Resizable\":true,\"Reorderable\":true,\"Selectable\":true,\"Groupable\":true,\"ColumnType\":\"GridBoundColumn\",\"DataTypeName\":\"System.String\",\"DataField\":\"Judges\",\"ReadOnly\":true,\"Display\":true}]}]","_masterClientID":"ctl00_ContentPlaceHolder1_grdDocket2_ctl00","_shouldFocusOnPage":false,"allowMultiRowSelection":false,"clientStateFieldID":"ctl00_ContentPlaceHolder1_grdDocket2_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder1_grdDocket2"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

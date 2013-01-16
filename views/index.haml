@@ -1,0 +1,45 @@
+.row
+  .span12
+    #indexCarousel.carousel.slide
+      .carousel-inner
+        .item.active
+          %img{:src => '/img/placeholder.png', :style => "height: 400px; width: 100%;"}
+          .carousel-caption
+            %h4 Archiving the work of the Texas Court of Appeals
+            %p
+              %span.badge.badge-warning
+                = Opinion.count(:type => 'memorandum')
+              memorandum opinions
+              &nbsp;
+              %span.badge.badge-success
+                = Opinion.count
+              total opinions
+        .item
+          %img{:src => '/img/placeholder.png', :style => "height: 400px; width: 100%;"}
+          .carousel-caption
+            %h4 Tex. R. App. P. 47.7. Citation of Unpublished Opinions
+            %p (b) Civil Cases.  Opinions and memorandum opinions designated “do not publish” under these rules by the courts of appeals prior to January 1, 2003 have no precedential value but may be cited with the notation, “(not designated for publication).”  If an opinion or memorandum opinion issued on or after that date is erroneously designated “do not publish,” the erroneous designation will not affect the precedential value of the decision.
+        // .item
+        //   %img{:src => 'http://twitter.github.com/bootstrap/assets/img/bootstrap-mdo-sfmoma-03.jpg'}
+        //   .carousel-caption
+        //     %h4 Practitioners Beware
+        //     %p This has occurred in an era when only 60% of attorneys use fee-based online research services (i.e., Westlaw or Lexis) for state case law research.
+        //     %p
+        //       %cite
+        //         Erica Warne @
+        //         %a{:href => "http://legalresearchplus.com/2009/06/11/practioners-beware-research-on-westlaw-and-lexis-is-a-necessity-in-texas/"} Legal Research Plus
+      %a.left.carousel-control{:href => '#indexCarousel', 'data-slide' => 'prev'} ‹
+      %a.right.carousel-control{:href => '#indexCarousel', 'data-slide' => 'next'} ›
+.row
+  .span8
+    %p.lead Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar viverra semper. Etiam eget leo non mauris dignissim laoreet. Fusce posuere orci a quam dictum eu ullamcorper nibh tristique. Nullam nec porttitor urna. Nullam sit amet massa metus. Mauris ut enim justo. Duis tempus libero vel tellus sollicitudin egestas. Morbi non mi dui.
+    %p Phasellus facilisis euismod rutrum. Praesent venenatis ultrices nisl, ac mattis arcu ornare eu. Proin ac diam id felis scelerisque auctor. Etiam vulputate enim ac lorem posuere faucibus vitae vitae purus. Cras semper libero ut mauris pellentesque et fermentum nisi rutrum. Aenean fringilla purus vitae augue pretium pharetra. Ut quis libero elit. Nulla gravida tortor commodo ligula auctor nec dignissim orci elementum. Curabitur vel enim et turpis dignissim interdum sit amet et turpis. Curabitur interdum interdum malesuada.
+    %p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar viverra semper. Etiam eget leo non mauris dignissim laoreet. Fusce posuere orci a quam dictum eu ullamcorper nibh tristique. Nullam nec porttitor urna. Nullam sit amet massa metus. Mauris ut enim justo. Duis tempus libero vel tellus sollicitudin egestas. Morbi non mi dui.
+    %p Phasellus facilisis euismod rutrum. Praesent venenatis ultrices nisl, ac mattis arcu ornare eu. Proin ac diam id felis scelerisque auctor. Etiam vulputate enim ac lorem posuere faucibus vitae vitae purus. Cras semper libero ut mauris pellentesque et fermentum nisi rutrum. Aenean fringilla purus vitae augue pretium pharetra. Ut quis libero elit. Nulla gravida tortor commodo ligula auctor nec dignissim orci elementum. Curabitur vel enim et turpis dignissim interdum sit amet et turpis. Curabitur interdum interdum malesuada.
+  .span4
+    .well
+      %h5 The Texas Courts of Appeals
+      %ol
+        - (1..14).each do |c|
+          %li
+            %a{:href => "/court/#{c}"}= court_name(c)

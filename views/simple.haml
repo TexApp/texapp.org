@@ -1,0 +1,12 @@
+.row
+  .span12
+    .page-header
+      %h1
+        = heading
+        - if defined? subheading
+          %br
+          %small= subheading
+    %ul
+      - @opinions.each do |o|
+        %li= partial :opinion, :locals => { :opinion => o }
+    = will_paginate @opinions, :renderer => BootstrapPagination::Sinatra

@@ -1,0 +1,6 @@
+%h1= @the_case.style
+%h2 Opinions
+%ul
+  - @the_case.opinions.each do |o|
+    %li
+      = partial :opinion, :locals => { :opinion => o }

@@ -1,0 +1,780 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+Set-Cookie: ocaBrowserType=Version=5&OS=other&Type=NS; domain=courts.state.tx.us; path=/
+Set-Cookie: ASPSESSIONIDQSABBBRC=KAFGGPFBHDMCAHFIAEJDDDHI; path=/
+X-Powered-By: ASP.NET
+Date: Mon, 14 Jan 2013 18:00:15 GMT
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<SCRIPT LANGUAGE="JavaScript"><!--
+function openWindow(windowName, urlLoc, w, h, top, left) { 
+	windowName = window.open("",windowName, 'scrollbars=yes,status=no,width=' + w + ',height=' + h + ',menubar=no,resizable=no,top=' + top + ',left=' + left + ',screenX=0,screenY=0');
+	windowName.location.href = urlLoc;
+	windowName.focus();
+	if (windowName.opener == null) windowName.opener = self;
+}
+//--></SCRIPT>
+
+<HTML><HEAD>
+<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<!--MAKE SURE YOU CHANGE THE META TAGS BASED ON YOUR PAGE-->
+<META NAME="title" CONTENT="Texas 3rd Court of Appeals">
+<META NAME="description" CONTENT="Official website for 3rd Court of Appeals of Texas.">
+<META NAME="keywords" CONTENT="3rd Court of Appeals, Texas appellate judiciary, Texas judiciary court, judicial system appellate court, Texas judicial court, Texas supreme civil court, TX 3rd Court of Appeals">
+<META NAME="category" CONTENT="Government">
+<META NAME="author" CONTENT="Texas Office of Court Administration">
+<META NAME="copyright" CONTENT="Texas Judiciary Online - 2006">
+<META NAME="rating" CONTENT="General">
+<META http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" for "http://www.courts.state.tx.us/" on "2000.04.11T20:10-0800" r (n 0 s 0 v 0 l 0))'> 
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<link media=all href="../css/styles2.css" type="text/css" rel="stylesheet">
+<META content="MSHTML 6.00.2900.2873" name=GENERATOR>
+
+		<style type="text/css">
+			@import "../css/nav.css";
+			@import "../css/oca.css";
+		</style>
+
+
+
+</HEAD>
+
+<TITLE>Texas Courts Online - Third of Court Appeals Case Management</TITLE>
+<DIV></DIV>
+
+<DIV id=wrapper>
+<DIV id=container>
+<DIV id=header>
+<DIV id=header2>
+<DIV id=header3>
+
+
+
+<table id="logo">
+<tr>
+<!--left picture-->
+	<td>
+<img width='124' height='100' alt='Jackson  County courthouse' title='Jackson  County courthouse' src='../images/courthouseam/Jackson.jpg'>
+	</td>
+
+<!--middle picture-->
+	<td><img width='124' height='100' alt='State Capitol NW View ' title='State Capitol NW View ' src='../images/arch/State_Capitol_NW_View.jpg'></td>
+
+<!--right picture-->	
+	<td>
+<img width='124' height='100' alt='Nueces  County courthouse' title='Nueces  County courthouse' src='../images/courthousenz/Nueces.jpg'>
+	</td>
+</tr>
+</table>
+
+<div id=nav-header>
+<p>
+
+
+
+<!-- Below is an invisible link to skip to maintcomenu
+<a class="skiplink" href="#maintcomenu">Skip sub navigation menu for Texas Courts Online, go to main navigation menu for Texas Courts Online </a> -->
+
+<a href="http://www.courts.state.tx.us/"><strong>TCO: Tx Courts Online Home</strong></a><br />
+<a href="http://www.courts.state.tx.us/encyclopedia.asp"><strong>A-Z Index</strong></a> | <strong><a href="http://www.courts.state.tx.us/faqs.asp">FAQs</a></strong> | <a href="http://www.courts.state.tx.us/search.asp"><strong>Search</strong></a>
+<!--
+
+<A href="http://www.courts.state.tx.us/about/contact.asp">Contact Us</A> | <A href="http://www.courts.state.tx.us/search.asp">Search</A> | <A href="http://www.courts.state.tx.us/sitemap.asp">Site Map</A>
+-->
+
+<br />
+<span class="tco">Site Best Viewed 1024x768+</span><br /><br />
+<span class="tco">Courthouse photos courtesy<br />
+of <a href="http://www.texascourthouses.com/">texascourthouses.com</a>.
+</span></p>
+
+</div>
+<!--anchor tag for maintcomenu-->
+<a class="skiplink" name="maintcomenu"></a>
+<!--Below is an invisible link to skip to maincontentnav -->		
+<a class="skiplink" href="#maincontentnav">Skip main navigation for Texas Court Online, go to  main content navigation</a>		
+<div id=nav-wrapper>
+	<div id=nav-wrap2>
+		<div id=nav-wrap3>
+            <div id="menu">
+            <ol>
+                <li id="active"><a href="http://www.courts.state.tx.us/">TCO</a></li>
+                <li><a href="http://www.courts.state.tx.us/pubs/JudDir.asp">Judicial Directory</a></li>
+                <!--li><a href="http://www.courts.state.tx.us/share/unavailable.asp">Judicial Directory</a></li-->
+                <li><a href="http://www.courts.state.tx.us/oca/judinfo.asp">Judicial Information</a></li>
+                <li><a href="http://www.courts.state.tx.us/entities.asp">Judicial Entities</a></li>
+                <li><a href="http://www.courts.state.tx.us/oca/calendar/2013cal.asp">Events</a></li>
+                <li><a href="http://www.courts.state.tx.us/oca/news.asp">News</a></li>
+                <li><a href="http://www.courts.state.tx.us/links.asp">Links</a></li>
+                
+                <li><a href="http://www.courts.state.tx.us/ForTrialCourts.asp">For Trial Courts</a></li>
+            </ol>
+            </div>
+		</div>
+	</div>
+</div>
+
+
+<div id="seal">
+<img alt='Texas logo' src='http://www.3rdcoa.courts.state.tx.us/seals/header/seal.gif' >
+</div><DIV id=nav-title>
+<P>
+<!--Below is an invisible link to skip to maintcomenu-->
+<a class="skiplink" href="#maintcomenu">Skip sub navigation menu for Texas Courts Online, go to main navigation menu for Texas Courts Online </a>
+
+<a href="http://www.3rdcoa.courts.state.tx.us">
+Third
+<br />&nbsp;&nbsp;&nbsp;Court of<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appeals</a>
+
+</p>
+</DIV>
+  
+  </DIV></DIV></DIV>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width="100%">
+      <DIV id=content>
+      		<DIV id=content-top>
+      			<DIV>
+      				<DIV><!-- top corners and border --></DIV>
+	  			</DIV>
+	  		</DIV><!--End of content-top-->
+      		<DIV id=content-middle>
+      	 	<DIV id=content-middle2>
+
+	     		<SCRIPT LANGUAGE="javascript">
+<!--
+//NOTE: To use this calendar Object, you must name your form 'theForm'
+var g_MINY=1601;
+var g_MAXY=4500;
+var g_month=0;
+var g_day=0;
+var g_year=0;
+var g_yLow=1980;
+
+function GetInputDate(t,f){
+	var l=t.length;
+	if(0==l)
+		return false;
+	var cSp='\0';
+	var sSp1="";
+	var sSp2="";
+	for(var i=0;i<t.length;i++){
+		var c=t.charAt(i);
+		if(c==' '||isdigit(c))
+			continue;
+		else if(cSp=='\0'&&(c=='/'||c=='-'||c=='.')) {
+			cSp=c;
+			sSp1=t.substring(i+1,l);
+		}
+		else if(c==cSp)
+			sSp2=t.substring(i+1,l);
+		else if(c!=cSp)
+			return false;
+	}
+	if(0==sSp1.length)
+		return false;
+	var m;
+	var d;
+	var y;
+	if(g_dFmt=="mmddyy"){
+		m=atoi(t);
+		d=atoi(sSp1);
+	}
+	else{
+		d=atoi(t);
+		m=atoi(sSp1);
+	}
+	if(0!=sSp2.length)
+		y=atoi(sSp2);
+	else 
+		y=DefYr(m,d);
+	if(y<100){
+		y=1900+y;
+		while(y<g_yLow)
+			y=y+100;
+	}
+	if(y<g_MINY||y>g_MAXY||m<1||m>12)
+		return false;
+	if(d<1||d>GetMonthCount(m,y))
+		return false;
+	g_month=m;
+	g_day=d;
+	g_year=y;
+	return true;
+}
+
+function DefYr(m,d){
+	var dt=new Date();
+	var yCur=(dt.getYear()<1000)?1900+dt.getYear():dt.getYear();
+	if(m-1<dt.getMonth()||(m-1==dt.getMonth()&&d<dt.getDate()))
+		return 1+yCur;
+	else 
+		return yCur;
+}
+
+function atoi(s){
+	var t=0;
+	for(var i=0;i<s.length;i++){
+		var c=s.charAt(i);
+		if(!isdigit(c))
+			return t;
+		else 
+			t=t*10+(c-'0');
+	}
+	return t;
+}
+
+function isdigit(c){
+	return(c>='0'&&c<='9');
+}
+
+function GetMonthCount(m,y){
+	var c=rgMC[m-1];
+	if((2==m)&&IsLeapYear(y))
+		c++;
+	return c;
+}
+
+function IsLeapYear(y){
+	if(0==y%4&&((y%100!=0)||(y%400==0))) 
+		return true;
+	else 
+		return false;
+}
+
+var rgMC=new Array(12);
+rgMC[0]=31;
+rgMC[1]=28;
+rgMC[2]=31;
+rgMC[3]=30;
+rgMC[4]=31;
+rgMC[5]=30;
+rgMC[6]=31;
+rgMC[7]=31;
+rgMC[8]=30;
+rgMC[9]=31;
+rgMC[10]=30;
+rgMC[11]=31;
+var g_eC=null;
+var g_eCV="";
+var g_dFmt="mmddyy";
+var g_fnCB=null;
+
+function ShowCalendar(formObj,eP,eD,eDP,dmin,dmax,fnCB){
+	var dF=document.all.CalFrame;
+	var wF=window.frames.CalFrame;
+	if(null==wF.g_fCalLoaded||false==wF.g_fCalLoaded){
+		alert("Unable to load popup calendar.\r\nPlease reload the page.");
+		return;
+	}
+	dtMin=new Date();
+	dtMin.setDate(dtMin.getDate()+dmin);
+	dtMax=new Date();
+	dtMax.setDate(dtMax.getDate()+dmax);
+	wF.SetMinMax(new Date(dtMin),new Date(dtMax));
+	g_fnCB=fnCB;
+	if(eD==g_eC&&"block"==dF.style.display){
+		if(g_eCV!=eD.value&&GetInputDate(eD.value,g_dFmt)){
+			wF.SetInputDate(g_day,g_month,g_year);
+			wF.SetDate(g_day,g_month,g_year);
+			g_eCV=eD.value;
+		}
+		else 
+			dF.style.display="none";
+	}
+	else{
+		if(GetInputDate(eD.value,g_dFmt)){
+			wF.SetInputDate(g_day,g_month,g_year);
+			wF.SetDate(g_day,g_month,g_year);
+		}
+		else if(null!=eDP&&GetInputDate(eDP.value,g_dFmt)){
+			wF.SetInputDate(g_day,g_month,g_year);
+			wF.SetDate(g_day,g_month,g_year);
+		}
+		else{
+			var dt=new Date(dtMin);
+			wF.SetInputDate(-1,-1,-1);
+			wF.SetDate(dt.getDate(),dt.getMonth()+1,dt.getFullYear());
+		}
+		var eL=0;
+		var eT=0;
+		var p=eP;
+		while(p&&p.tagName!="BODY"){
+			eT+=p.offsetTop;
+			eL+=p.offsetLeft;
+			p=p.offsetParent;
+		}
+		var eH=eP.offsetHeight;
+		var dH=dF.style.pixelHeight;
+		var sT=document.body.scrollTop;
+		dF.style.left=eL;
+		if(eT-dH>=sT&&eT+eH+dH>document.body.clientHeight+sT)
+			dF.style.top=eT-dH;
+		else 
+			dF.style.top=eT+eH;
+		if("none"==dF.style.display)
+			dF.style.display="block";
+		g_eC=eD;
+		g_eCV=eD.value;
+	}
+}
+
+function SetDate(d,m,y){
+	var ds="/";
+	g_eC.focus();
+	if(g_dFmt=="mmddyy")
+		g_eC.value=m+ds+d+ds+y;
+	else 
+		g_eC.value=d+ds+m+ds+y;
+	g_eCV=g_eC.value;
+	if(null!=g_fnCB&&""!=g_fnCB)
+		eval(g_fnCB);
+}
+
+function GetDowStart(){
+	return 0;
+}
+
+function GetDOW2(d,m,y){
+	var dt=new Date(y,m-1,d);
+	return(dt.getDay()+(7-GetDowStart()))%7;
+}
+
+function LoadMonths(n){
+	var dt=new Date();
+	var m=dt.getMonth()+1;
+	var y=dt.getFullYear();
+	var rg=new Array(n);
+	for(i=0;i<n;i++){
+		rg[i]=document.createElement("IMG");
+		rg[i].src="../resource/includes/html/calendar/caltemplate/months/w"+GetDOW2(1,m,y)+"d"+GetMonthCount(m,y)+".gif";
+		m++;
+		if(12<m){
+			m=1;y++;
+		}
+	}
+}
+
+LoadMonths(12);
+
+function chkBrowser(){
+	this.ver=navigator.appVersion;
+	this.dom=document.getElementById?1:0;
+	this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom)?1:0;
+	this.ie4=(document.all && !this.dom)?1:0;
+	this.ns5=(this.dom && parseInt(this.ver) >= 5) ?1:0;
+	this.ns4=(document.layers && !this.dom)?1:0;
+	this.bVer=(this.ie5 || this.ie4 || this.ns4 || this.ns5);
+	return this;
+}
+
+bVer=new chkBrowser();
+ns4 = (document.layers)? true:false;
+ie4 = (document.all)? true:false;
+
+function AttB(f){
+	if(bVer.ie4)
+		f.style.display='block';
+}
+
+function AttN(f){
+	if(bVer.ie4)
+		f.style.display='none';
+}
+
+function show(idLayer,idParent,lformObj){
+	cLayer=bVer.dom?document.getElementById(idLayer).style:bVer.ie4?document.all[idLayer].style:bVer.ns4?idParent?document[idParent].document[idLayer]:document[idLayer]:0;
+	cLayer.display='block';divLinksForm=(ns4)?document.divLinks.document.divLinks:document.divLinks;
+	var d=lformObj;
+	if (idLayer=='car'){
+		AttB(d.CKind);
+		AttB(d.Ctime1);
+		AttB(d.Ctime2);
+		d.srch[2].status='true';
+	}
+	else if (idLayer=='hot'){
+		AttB(d.Hcadt);
+		AttB(d.Hckid);
+		d.srch[1].status='true';
+	}
+	else{
+		AttB(d.FcAdu);
+		d.srch[0].status='true';
+		/*if (idParent!='flt' && d.opts[1].checked) hide('dts','flt');*/
+	}
+}
+
+function hide(idLayer,idParent,lformObj){
+	cLayer=bVer.dom?document.getElementById(idLayer).style:bVer.ie4?document.all[idLayer].style:bVer.ns4?idParent?document[idParent].document[idLayer]:document[idLayer]:0;
+	var d=lformObj;
+	if(idLayer!='flt')
+		AttN(d.FcAdu);
+	AttN(d.Hcadt);
+	AttN(d.Hckid);
+	AttN(d.CKind);
+	AttN(d.Ctime1);
+	AttN(d.Ctime2);
+	cLayer.display='none'
+}
+
+//-->
+</SCRIPT>
+<!--SCRIPT FOR=document EVENT="onclick()">
+<!--
+document.all.CalFrame.style.display="none";
+//>
+</SCRIPT--><script language="JavaScript">
+<!--
+////////////////////////////////////////
+// function: ClearThisForm
+// accepts: a reference to a form
+// returns: nothing
+// use: if you want to blank out text and textarea fields even
+//      if they have default values you would want to use this function.
+//		A normal reset button will prefill the text inputs with the
+//		default values.  This function, when called on a BUTTON's (not
+//		reset) onClick event will blank out any text and textarea fields
+//		in the form.
+function ClearThisForm(formObj) {
+	var formSize;
+	formSize = formObj.elements.length;
+
+	for (i=0; i<formSize; i++) { 
+		if (formObj.elements[i].type == "text") 
+			formObj.elements[i].value = "";
+		else if (formObj.elements[i].type == "textarea")
+			formObj.elements[i].value = "";
+	}
+}
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function validForm(chkForm) 
+{
+	var errMsg = '';
+
+	//check the case number...COM object returns an error if an apostrophe is found
+	if (chkForm.DocketYear.value.length > 0) 
+	  {
+		for (var i=0;i<chkForm.DocketYear.value.length;i++) 
+		{
+			if (chkForm.DocketYear.value.charAt(i) == "'") 
+			{
+				errMsg = "Please enter a valid year";
+				break;
+			}
+		}
+		if (errMsg.length > 0) {
+			alert(errMsg);
+			chkForm.DocketYear.focus();
+			return false;
+		}
+	    else {return true;}	    
+	  }
+} 	
+
+// -->
+</script>
+
+<!--MAIN Content Table Begin--> 
+	<table width=100%>
+    <tr>    								
+		<td colspan="2" class="TextNormal">
+			<br><br>			
+			<span class="TitleBlue">Released Orders/Opinions</span><br />
+			Enter a year and quarter to view a list of Released Orders/Opinions.  Please note that page load/display time may vary according to the size of the list.<br />
+			  <form class="TextNormal" name="theForm" method="get" action="docketsrch.asp" onsubmit="return validForm(document.theForm)">
+				<table border="0" cellpadding="1" cellspacing="0" bgcolor="#A7A895" width="350"><tr><td>
+				<table border="0" cellpadding="5" cellspacing="0" bgcolor="#EBEBE1" width="100%">
+				<tr>
+					<td width="100" nowrap class="TextNormal">
+					  Year/Quarter&nbsp;					  
+					</td>
+					<td width="150" nowrap class="TextNormal">
+					    <input type=Text name="DocketYear" size="4" maxlength="4" value=2012>
+						<select name="Yr_Quarter">
+						  <option SELECTED value=1>Jan-Mar</option>
+						  <option  value=4>Apr-Jun</option>
+						  <option  value=7>Jul-Sep</option>
+						  <option  value=10>Oct-Dec</option>
+						</select>						
+				</td>
+					<td width="100" nowrap class="TextNormal">
+					  <input type="Submit" value="Refresh" id=Submit1 name=Submit1>
+				</td>
+			    </tr>
+				</table>
+				</td></tr>		
+				</table>
+				</form>			
+		</td>
+	</tr>
+	</table>
+	
+	
+<a name="Found"></a>
+<SPAN CLASS="TextNormal">To view the specific Released Orders/Opinions list, <B>click on the <IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT="">Folder icon</B>.</SPAN><TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" WIDTH="100%"><TR BGCOLOR="#000099" VALIGN=TOP><TH id="PRECOL1" CLASS="TextSmallWhite" ALIGN=LEFT><B>&nbsp;</B></TH><TH id="FIELD0" CLASS="TextSmallWhite" ALIGN=LEFT WIDTH="0.999600159936026%"><B>Docket Date</B></TH></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120330><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/30/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120329><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/29/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120328><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/28/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120327><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/27/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120323><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/23/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120322><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/22/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120321><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/21/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120320><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/20/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120316><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/16/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120315><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/15/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120314><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/14/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120313><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/13/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120309><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/09/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120308><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/08/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120307><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/07/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120306><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/06/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120302><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>03/02/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120301><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>03/01/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120229><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/29/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120228><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>02/28/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120224><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/24/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120223><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>02/23/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120222><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/22/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120217><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>02/17/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120216><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/16/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120215><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>02/15/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120214><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/14/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120210><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>02/10/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120209><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/09/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120208><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>02/08/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120203><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/03/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120202><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>02/02/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120201><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>02/01/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120131><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>01/31/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120127><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>01/27/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120126><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>01/26/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120125><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>01/25/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120124><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>01/24/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120120><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>01/20/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120119><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>01/19/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120118><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>01/18/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120113><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>01/13/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120111><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>01/11/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120110><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>01/10/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120106><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>01/06/2012</TD></TR><TR BGCOLOR=#EBEBEB VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=#EBEBEB><A HREF=docket.asp?FullDate=20120105><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=#EBEBEB>01/05/2012</TD></TR><TR BGCOLOR=White VALIGN=TOP><TD CLASS="TextSmall" headers="PRECOL1" BGCOLOR=White><A HREF=docket.asp?FullDate=20120104><IMG SRC="../resource/opinions/images/fldr.gif" ALIGN="bottom" WIDTH="23" HEIGHT="15" BORDER="0" ALT=""></A></TD><TD headers="FIELD0" CLASS="TextSmall" BGCOLOR=White>01/04/2012</TD></TR><TR><TD COLSPAN=2><HR WIDTH="100%"></TD></TR></TABLE>
+<br>
+		<span class="TitleBlue">Submission Docket</span><br />
+		<span class="TextNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/opinions/submission.asp" class="LinkSite">View Cases set on Oral Argument or Briefs</a></span><br />
+<br />
+<br />
+
+		
+			
+<!--MAIN Content Table End-->	
+
+
+				
+	     	</DIV><!--End of content-middle2-->
+
+      		<DIV id=content-bottom>
+      		<DIV>      				
+	  		</DIV></DIV>
+	</TD>
+    <TD>
+	
+<!--RIGHT SIDE modules-->
+<DIV id=right-col>
+
+<!--Practice Before the Court -->
+<div class="module blue">
+    <div class=module-heading>
+        <a class="skiplink" name="maincontentnav"></a>
+        <a class="skiplink" href="#maincontent">Skip main content navigation, go to main content</a>		
+        
+        <h4 class=browser><span>General Information</span></h4>
+    </div>
+    <div class=module-main>
+        <dl>
+    
+            <div id="cse-search-form" style="width: 100%;">Loading</div>
+            <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+            <script type="text/javascript"> 
+              google.load('search', '1', {language : 'en'});
+              google.setOnLoadCallback(function() {
+                var customSearchControl = new google.search.CustomSearchControl('003097056825534408492:pz5g8zeomny');
+                customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                var options = new google.search.DrawOptions();
+                options.enableSearchboxOnly("http://www.3rdcoa.courts.state.tx.us/search.asp");    
+                customSearchControl.draw('cse-search-form', options);
+              }, true);
+            </script>
+            <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+            
+            <dt><a href="http://www.3rdcoa.courts.state.tx.us/">3rd COA Home</a></dt>
+            
+            <dt>Practice Before the  Court</dt>
+                <dd>
+                    <a href="http://www.3rdcoa.courts.state.tx.us/rules/procedures.asp">Local Practices</a> |  
+                    <a href="http://www.3rdcoa.courts.state.tx.us/rules/LocalRules.pdf">Local Rules</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/rules/efiling.asp">Electronic Filing</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/forms/3rdcoa-IOPs.pdf">Internal Operating Procedures [pdf]</a> |   
+                    <a href="http://www.supreme.courts.state.tx.us/rules/">General Rules &amp; Standards</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/fees.asp">Fees</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/forms/forms.asp">Forms</a>
+                </dd>
+                
+            <dt>About the Court</dt>
+                <dd>
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/contact.asp">Contact</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/justices.asp">Justices</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/jobs/employment.asp">Employment</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/court/faq.asp">FAQs</a>
+                </dd>
+            
+            <!--<form action="http://www.3rdcoa.courts.state.tx.us/search.asp" method="get">
+                <label><dt>Search Courts Site</dt>
+                <input title="Search the site" type="text" name="query" value="Type Search Word" onclick="this.value=''"/>
+                </label>
+                <input type="submit" value="Search" />
+            </form> -->
+        </dl>
+    </div>
+</div>
+
+<!--Case Information-->
+      <div class="module red">
+      <div class=module-heading>
+      <h4 class=browser><span>Case Information</span></h4>
+	  </div>
+      <div class=module-main>
+      <dl> 
+
+
+		<!-- gsPageKey is the page from which we're coming -->
+			
+
+		<dt>
+		
+			<a href="http://www.3rdcoa.courts.state.tx.us/opinions/search.asp">Case Search</a>
+		
+        </dt>
+
+        <!-- ######## UPDATE THIS SECTION AS COURTS MOVE TO TAMES ################## -->
+        <dt>
+		 <!--Else link COA opinion search-->	
+    		<a href="http://www.3rdcoa.courts.state.tx.us/opinions/opsrch.asp">Opinion Search</a> 
+        
+        </dt>
+        
+        
+        <!-- ######################################################################### -->
+			
+		
+		
+        	<dt><a href="http://www.3rdcoa.courts.state.tx.us/opinions/docketsrch.asp">Released Orders/Opinions</a></dt>
+		
+        
+        <!-- New feature for 1st COA -->
+        
+        	<!--<dt><a href="http://www.3rdcoa.courts.state.tx.us/pdf/01-11-0079-CV.7-21-2022.pdf">Order issued July 21, 2011</a></dt> -->
+        
+			<dt><a href="http://www.3rdcoa.courts.state.tx.us/opinions/submission.asp">Case Submissions</a></dt>
+		
+        
+        <!-- New feature for 4th COA -->
+        
+	
+		</dl>
+  </div></div>
+
+<!--Login -->
+<div class="module green">
+    <div class=module-heading>
+    	<h4 class=browser><span>Case Mail</span></h4>
+    </div>
+    <div class=module-main>
+        <dl>
+            <dt>Track Cases or Released Opinions</dt>
+            <dd>
+                
+                <a href= "https://www.3rdcoa.courts.state.tx.us/members/members.aspx">My Account</a> | 
+                <a href="https://www.3rdcoa.courts.state.tx.us/members/casewatch.aspx">Case Tracking</a> |
+                <a href="https://www.3rdcoa.courts.state.tx.us/members/opinionwatch.aspx">Opinion Tracking</a> |
+                <a href="https://www.3rdcoa.courts.state.tx.us/members/createmember.aspx">Register</a> |
+                <!-- gsPageKey is the page from which we're coming.
+                     gsPageKey = "main" means we're coming from www.courts.state.tx.us,
+                     but Darrell created it for use in conjunction with anomalous 5th stuff (11/01/2012) -->
+                <!-- 5th COA has now moved entirely to CaseMail. Leaving this in as a reminder of what gsPageKey is for,
+                	 and to search out where it's used and see if we want to remove it entirely (11/28/2012) -->
+                <!--< % If LCase(gsPageKey) = "coa5" OR LCase(gsPageKey) = "main" Then % >
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_basics5.asp">Basics</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_faqs5.asp">FAQs</a>
+                < % else % >-->
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_basics.asp">Basics</a> | 
+                    <a href="http://www.3rdcoa.courts.state.tx.us/common/cmail_faqs.asp">FAQs</a>
+                <!--< % end if % >-->
+                <br />
+            </dd>
+        </dl>
+    </div>
+</div>
+
+
+<!--Quick Links-->
+<div class="module grey">
+
+<div class=module-heading>
+	<h4 class=browser><span>Texas Appellate Courts</span></h4>
+</div>
+
+
+<div class=module-main>
+<dl>
+	<dt><a href="http://www.supreme.courts.state.tx.us">The Supreme Court of Texas</a></dt>
+	<dt><a href="http://www.cca.courts.state.tx.us">Court of Criminal Appeals</a></dt>		
+	<dt><a href="http://www.courts.state.tx.us/courts/coa.asp">Courts of Appeals</a> <span class="sans">[by District-City]</span></dt>		
+
+		<dd>
+			<a href="http://www.1stcoa.courts.state.tx.us">1-Houston</a> | 
+			<a href="http://www.2ndcoa.courts.state.tx.us">2-Fort Worth</a> | 
+			<a href="http://www.3rdcoa.courts.state.tx.us">3-Austin</a>
+			<br />
+			
+			<a href="http://www.4thcoa.courts.state.tx.us">4-San Antonio</a> | 
+			<a href="http://www.5thcoa.courts.state.tx.us">5-Dallas</a> | 
+			<a href="http://www.6thcoa.courts.state.tx.us">6-Texarkana</a>
+			<br />
+			
+			<a href="http://www.7thcoa.courts.state.tx.us">7-Amarillo</a> | 
+			<a href="http://www.8thcoa.courts.state.tx.us">8-El Paso</a> | 
+			<a href="http://www.9thcoa.courts.state.tx.us">9-Beaumont</a>
+			<br />
+			
+			<a href="http://www.10thcoa.courts.state.tx.us">10-Waco</a> | 
+			<a href="http://www.11thcoa.courts.state.tx.us">11-Eastland</a> | 
+			<a href="http://www.12thcoa.courts.state.tx.us">12-Tyler</a>
+			<br />
+			
+			<a href="http://www.13thcoa.courts.state.tx.us">13-Corpus Christi/Edinburg</a>
+            <br />
+            
+			<a href="http://www.14thcoa.courts.state.tx.us">14-Houston</a>
+		</dd>
+ 
+	<dt><a href="http://www.courts.state.tx.us/pubs/AR2012/toc.htm">Appellate Statistics</a></dt>		
+
+</dl>
+</div>
+</div>
+
+<!--Latest Video-->
+<!--include file="video.htm"-->
+
+</TD></TR></TBODY></TABLE>
+
+
+<div id=footer>
+<div>
+
+<div id="seal_small">
+
+
+<img src="http://www.3rdcoa.courts.state.tx.us/seals/footer/txseal_small.jpg" width="50" height="50" alt="Texas state seal" />&nbsp;&nbsp;</div>
+<a href="http://www.3rdcoa.courts.state.tx.us/3rdcoa.asp">Third Court of Appeals</a>
+&nbsp;&bull;&nbsp;
+Price Daniel Sr. Bldg.
+&nbsp;&bull;&nbsp;
+209 W. 14th St., Rm. 101
+&nbsp;&bull;&nbsp;
+Austin, TX 78701
+&nbsp;&bull;&nbsp;
+(512) 463-1733
+&bull;&nbsp; <a href="mailto:comments@3rdcoa.courts.state.tx.us?subject=3rd Coa website comment/question">Email Court</a> <br />
+
+<a href="http://www.courts.state.tx.us/accessibility.asp">Accessibility Policy</a> |
+<a href="http://www.courts.state.tx.us/ppolicy.asp">Privacy &amp; Security Policy</a> | 
+<a class=Normal href="http://www.courts.state.tx.us/rules/openrecstate.asp">Open Records Policy</a> | 
+<a href="http://www.dir.texas.gov/pubs/Pages/weblink-privacy.aspx" target="_blank">State Web Site Link &amp; Privacy Policy</a> | <a href="http://www.search.txcourts.gov/webmaster/contact.aspx?courtid=3rdCOA">Contact TCO</a> 
+
+
+
+<br /> 
+
+<a class=Normal href="http://www.texas.gov" target="_blank">Texas.gov</a> | 
+<a class=Normal href="http://www2.tsl.state.tx.us/trail/" target="_blank">TRAIL</a>  | 
+<a class=Normal href="http://www.texashomelandsecurity.com/" target="_blank">Texas Homeland Security</a> | 
+<a href="http://window.state.tx.us/comptrol/expendlist/cashdrill.php" target="_blank">Where the Money Goes</a>
+
+
+	| <a href="http://www.3rdcoa.courts.state.tx.us/forms/3lar.pdf">Legislative Appropriations Request [pdf]</a> 
+	<br /><a href="http://www.3rdcoa.courts.state.tx.us/forms/3ob.pdf">Operating Budget [pdf]</a> 
+	<!--| <a href="http://www.3rdcoa.courts.state.tx.us/forms/2010-11ReductionPlan.pdf">FY 2010-11 5% Budget Cuts [pdf]</a--> 
+	
+	
+
+</div>
+
+
+</DIV></DIV>
+<DIV></DIV>
+</BODY></HTML>
+

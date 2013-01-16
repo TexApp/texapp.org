@@ -1,0 +1,15 @@
+---
+environment: production
+chdir: /var/www/texapp.org/current/
+address: 127.0.0.1
+user: thin
+group: thin
+port: 8000
+pid: /var/www/texapp.org/current/tmp/pids/thin.pid
+rackup: /var/www/texapp.org/current/config.ru
+log: /var/www/texapp.org/current/log/thin.log
+max_conns: 1024
+timeout: 30
+max_persistent_conns: 512
+daemonize: true
+servers: 4
