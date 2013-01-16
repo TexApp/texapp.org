@@ -19,17 +19,17 @@ role :app, "texapp.org"
 after 'deploy:update_code', 'deploy:symlink_credentials'
 
 namespace :deploy do
+  THIN = "cd #{deploy_to}/current && bundle exec thin -C thin.yml"
   task :start, :roles => [:web, :app] do
-    run "cd #{deploy_to}/current && bundle exec thin -C thin.yml start"
+    run "#{THIN} start"
   end
  
   task :stop, :roles => [:web, :app] do
-    run "cd #{deploy_to}/current && bundle exec thin -C thin.yml stop"
+    run "#{THIN} stop"
   end
  
   task :restart, :roles => [:web, :app] do
-    deploy.stop
-    deploy.start
+    run "#{THIN} restart"
   end
  
   task :cold do
