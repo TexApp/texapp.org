@@ -1,5 +1,6 @@
-require 'bundler/setup'
-require 'rspec/core/rake_task'
-RSpec::Core::RakeTask.new('spec')
-
-task :default => :spec
+namespace :barista do
+  task :brew do
+    require 'barista'
+    Barista.compile_all! true, false
+  end
+end
