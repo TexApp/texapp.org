@@ -3,6 +3,7 @@
 
   $().ready(function() {
     var docketNumber;
+    $('.date').datepicker();
     $('a.document').tooltip({
       html: true,
       title: '<i class="icon-file icon-white"></i> Click to download'

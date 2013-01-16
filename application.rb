@@ -13,6 +13,8 @@ require 'sinatra/config_file'
 
 # TODO: memcache? for Rack::Cache?
 
+WillPaginate.per_page = 20
+
 class TexAppOrg < Sinatra::Base
   register Sinatra::Partial
 
@@ -62,14 +64,19 @@ class TexAppOrg < Sinatra::Base
     haml :case
   end
 
+  FORMAT = "%m-%d-%Y"
+
   get "/court/:court" do
     @court = params[:court].to_i
-    @opinions = Opinion.paginate(
+    @date = Date.strptime(params[:date], FORMAT).strftime(FORMAT) rescue nil if params[:date]
+    @today = Date.today.strftime FORMAT
+    conditions = {
       :case => { :court => @court },
       :page => params[:page],
-      :order => [:date.desc],
-      :per_page => 20
-    )
+      :order => [:date.desc]
+    }
+    conditions[:date] = Date.strptime(@date, FORMAT) if @date
+    @opinions = Opinion.paginate(conditions)
     haml :simple, :locals => {
       :heading => cardinal_name(@court),
       :subheading => CITIES[@court]
@@ -77,11 +84,14 @@ class TexAppOrg < Sinatra::Base
   end
 
   get "/recent" do
-    @opinions = Opinion.paginate(
-      :order => [:date.desc],
+    @date = Date.strptime(params[:date], FORMAT).strftime(FORMAT) rescue nil if params[:date]
+    @today = Date.today.strftime FORMAT
+    conditions = {
       :page => params[:page],
-      :per_page => 20
-    )
+      :order => [:date.desc]
+    }
+    conditions[:date] = Date.strptime(@date, FORMAT) if @date
+    @opinions = Opinion.paginate(conditions)
     haml :simple, :locals => { :heading => 'Recent Opinions' }
   end
 

@@ -6,6 +6,15 @@
         - if defined? subheading
           %br
           %small= subheading
+    %form.form-inline
+      .input-append.date{'data-date' => @date ? @date : @today, 'data-date-format' => 'mm-dd-yyyy'}
+        %input.span2{:name => :date, :type => :text, :size => 16, :value => @date ? @date : @today}
+        %span.add-on
+          %i.icon-th
+      .input-append
+        &nbsp;
+        %button.btn{:type => :submit} Show Date
+    %hr
     %ul
       - @opinions.each do |o|
         %li= partial :opinion, :locals => { :opinion => o }
