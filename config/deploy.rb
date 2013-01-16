@@ -20,11 +20,11 @@ after 'deploy:update_code', 'deploy:symlink_credentials'
 
 namespace :deploy do
   task :start, :roles => [:web, :app] do
-    run "cd #{deploy_to}/current && nohup bundle exec thin -C thin.yml start"
+    run "cd #{deploy_to}/current && bundle exec thin -C thin.yml start"
   end
  
   task :stop, :roles => [:web, :app] do
-    run "cd #{deploy_to}/current && nohup bundle exec thin -C thin.yml stop"
+    run "cd #{deploy_to}/current && bundle exec thin -C thin.yml stop"
   end
  
   task :restart, :roles => [:web, :app] do
