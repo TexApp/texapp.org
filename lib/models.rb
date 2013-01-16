@@ -19,6 +19,15 @@ class Opinion
   property :md5sum, String, :length => 32
   
   belongs_to :case
+
+  # CloudFiles file name
+  def self.filename_for docket_number, checksum
+    "#{checksum}/#{docket_number}.pdf"
+  end
+
+  def filename
+    Opinion.filename_for self.case.docket_number, @md5sum
+  end
 end
 
 class Log

@@ -59,8 +59,7 @@ module Scraper
       record
     end
 
-    def save_file docket, md5sum, file
-      filename = "#{docket}_#{md5sum}.pdf"
+    def save_file filename, file
       container = @cloudfiles.container(@container)
       if container.object_exists?(filename)
         @log.warn "File existed: #{filename}"
@@ -74,7 +73,7 @@ module Scraper
     def save_opinion case_record, opinion_hash
       @log.info "Scraped opinion #{opinion_hash[:url]}"
 
-      # file
+      # download file
       sleep @delay
       file = open opinion_hash[:url]
       @log.info opinion_hash[:url]
@@ -84,16 +83,20 @@ module Scraper
         raise "no PDF file"
       end
       opinion_hash.merge!({ :md5sum => md5sum })
-      @log.info "Checksum: " + md5sum
-      save_file case_record.docket_number, md5sum, file
 
       # create database record
-      record = Opinion.first :md5sum => md5sum
-      unless record
+      opinion_record = Opinion.first :md5sum => md5sum
+      unless opinion_record
         opinion_record = Opinion.new(opinion_hash)
         opinion_record.case = case_record
         opinion_record.save
       end
+
+      # save file
+      @log.info "Checksum: " + md5sum
+      save_file opinion_record.filename, file
+
+      return record
     end
  end
 end

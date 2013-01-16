@@ -34,17 +34,16 @@ class TexAppOrg < Sinatra::Base
     docket_number = params[:captures].first
     md5sum = params[:md5]
     if md5sum && md5sum.length == 32
-      filename = "#{docket_number}_#{md5sum}.pdf"
+      filename = Opinion.filename_for docket_number, md5sum
       container = $cloudfiles.container(CONTAINER)
       object = container.object(filename)
-      attachment "#{docket_number}.pdf"
       redirect object.public_url
     else
       court_case = Case.first :docket_number => docket_number
       opinions = court_case.opinions
       if opinions.count == 1
         opinion = opinions.first
-        filename = "#{court_case.docket_number}_#{opinion.md5sum}.pdf"
+        filename = opinion.filename
         container = $cloudfiles.container(CONTAINER)
         object = container.object(filename)
         attachment "#{docket_number}.pdf"
