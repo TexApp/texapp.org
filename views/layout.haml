@@ -25,14 +25,19 @@
               - links.each do |title, url|
                 %li{class: request.path_info == url && 'active'}
                   %a{:href => url}!= title
-          %form#search.navbar-search.pull-right{:method => :get, :action => "/search"}
-            %input.search-query{:name => :query, :type => "text", :placeholder => "Search terms or Docket #"}
+          %form#search.form-search.navbar-search.pull-right{:method => :get, :action => "/search"}
+            .input-append
+              %input.span2.search-query{:type => "text", :name => :query, :placeholder => "Search terms or Docket #"}
+              %button.btn{:type => "submit"} Search
     .container
       = yield
       %hr
       %footer
-        %span.pull-right
-          &copy; Don Cruse &amp; Kyle Mitchell
+        %small.pull-right
+          Brought to you by
+          %a{:href=> "http://www.doncruse.com"} Don Cruse
+          &amp;
+          %a{:href => "http://www.kemitchell.com"} Kyle Mitchell
     %script{:src => "http://code.jquery.com/jquery-latest.js"}
     %script{:src => "/javascripts/bootstrap.min.js"}
     %script{:src => "/javascripts/bootstrap-datepicker.js"}
