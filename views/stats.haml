@@ -10,11 +10,6 @@
     #y_axis
     #chart
     #legend
-    %form#offset_form.toggler
-      %input#lines{:type => "radio", :name => "offset", :value => "lines", :checked => true}
-      %label.lines{:for => "lines"} Lines
-      %input#stack{:type => "radio", :name => "offset", :value => "zero"}
-      %label.stack{:for => "stack"} Stack
   %form#statsForm.form-horizontal{:action => '/stats', :method => :get}
     .control-group
       %label.control-label From
