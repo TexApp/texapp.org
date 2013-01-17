@@ -1,31 +1,11 @@
-:css
-  #chart_container {
-    display: inline-block;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  #chart {
-    float: left;
-  }
-  #legend {
-    float: left;
-    margin-left: 15px;
-  }
-  #offset_form {
-    float: left;
-    margin: 2em 0 0 15px;
-    font-size: 13px;
-  }
-  #y_axis {
-    float: left;
-    width: 40px;
-  }
 .row
   .span12
     .page-header
       %h1
         Statistics
         %br
-        %small New Opinions
+        %small New opinions over time
+  %img#loading{:src => '/img/loading.gif'}
   #chartContainer.span12
     #y_axis
     #chart
@@ -35,3 +15,27 @@
       %label.lines{:for => "lines"} Lines
       %input#stack{:type => "radio", :name => "offset", :value => "zero"}
       %label.stack{:for => "stack"} Stack
+  %form#statsForm.form-horizontal{:action => '/stats', :method => :get}
+    .control-group
+      %label.control-label From
+      .controls
+        .input-append.date{'data-date' => @from.strftime(VALUE_FORMAT), 'data-date-format' => DATA_FORMAT}
+          %input.span2{:name => :from, :type => :text, :size => 16, :value => @from.strftime(VALUE_FORMAT)}
+          %span.add-on
+            %i.icon-th
+    .control-group
+      %label.control-label Through
+      .controls
+        .input-append.date{'data-date' => @through.strftime(VALUE_FORMAT), 'data-date-format' => DATA_FORMAT}
+          %input.span2{:name => :through, :type => :text, :size => 16, :value => @through.strftime(VALUE_FORMAT)}
+          %span.add-on
+            %i.icon-th
+    .control-group
+      %label.control-label Courts
+      .controls
+        - (1..14).each do |court|
+          %label.checkbox.inline
+            %input{:type => :checkbox, :name => 'courts[]', :value => court, :checked => @courts.include?(court)}= court
+    .control-group
+      .controls
+        %button.btn{:type => :submit} Show Statistics

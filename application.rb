@@ -65,6 +65,8 @@ class TexAppOrg < Sinatra::Base
   end
 
   FORMAT = "%m-%d-%Y"
+  DATA_FORMAT = "yyyy-mm-dd"
+  VALUE_FORMAT = "%Y-%m-%d"
 
   get "/court/:court" do
     @court = params[:court].to_i
@@ -131,21 +133,35 @@ class TexAppOrg < Sinatra::Base
   end
 
   get '/stats' do
+    @from = Date.parse(params[:from], VALUE_FORMAT) rescue Date.today - 30
+    @through = Date.parse(params[:through], VALUE_FORMAT) rescue Date.today
+    @courts = params[:courts].map(&:to_i) rescue 1..14
     haml :stats, :locals => {:d3 => true, :js => 'coffeescripts/stats.js' }
   end
 
   get '/stats.json' do
-    weekago = Date.today - 30
-    result = (1..14).map do |court|
+    @from = Date.parse(params[:from], VALUE_FORMAT) rescue Date.today - 30
+    @through = Date.parse(params[:through], VALUE_FORMAT) rescue Date.today
+    @courts = params[:courts].map(&:to_i) rescue 1..14
+    opinions = Opinion.all(
+      :case => {:court => @courts },
+      :date.gte => @from,
+      :date.lte => @through
+    )
+    result = @courts.map do |court|
       {
         :name => "#{CARDINAL_DIGITS[court]} #{CITIES[court]}",
-        :data => (weekago..Date.today).map { |day|
+        :data => (@from..@through).map { |day|
+          count = 
           {
             :x => day.strftime('%s').to_i,
-            :y => Opinion.count(
-              :case => { :court => court },
-              :date => day
-            )
+            :y => opinions.inject(0) { |mem, opinion|
+              if opinion.case.court == court && opinion.date == day
+                mem + 1
+              else
+                mem
+              end
+            }
           }
         }
       }

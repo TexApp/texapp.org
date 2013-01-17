@@ -1,6 +1,10 @@
 $().ready ->
-  $.getJSON '/stats.json', {}, (data) ->
+  data = location.search.replace /^\?/, ''
+  $.getJSON '/stats.json', data, (data) ->
     palette = new Rickshaw.Color.Palette()
+    $('#loading').remove()
+    $('#statsForm').show()
+    $('#chartContainer').show()
     graph = new Rickshaw.Graph
           element: document.querySelector("#chart")
           width: 800

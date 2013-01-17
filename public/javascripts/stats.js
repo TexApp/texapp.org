@@ -1,9 +1,14 @@
 (function() {
 
   $().ready(function() {
-    return $.getJSON('/stats.json', {}, function(data) {
+    var data;
+    data = location.search.replace(/^\?/, '');
+    return $.getJSON('/stats.json', data, function(data) {
       var graph, legend, offsetForm, palette, x_axis, y_axis;
       palette = new Rickshaw.Color.Palette();
+      $('#loading').remove();
+      $('#statsForm').show();
+      $('#chartContainer').show();
       graph = new Rickshaw.Graph({
         element: document.querySelector("#chart"),
         width: 800,
