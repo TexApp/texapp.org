@@ -21,7 +21,7 @@
               %a.brand.sc{:href => "/"} TexApp.org
           .nav.collapse.nav-collapse
             %ul.nav
-              - links = {'<i class="icon-home"></i>' => '/', 'About' => '/about', "Citation" => "/citation", "Technology" => "/technology"}
+              - links = {'<i class="icon-home"></i>' => '/', 'About' => '/about', "Citation" => "/citation", "Technology" => "/technology", "Statistics" => "/statistics"}
               - links.each do |title, url|
                 %li{class: request.path_info == url && 'active'}
                   %a{:href => url}!= title

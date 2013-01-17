@@ -3,7 +3,7 @@
   $().ready(function() {
     var data;
     data = location.search.replace(/^\?/, '');
-    return $.getJSON('/stats.json', data, function(data) {
+    return $.getJSON('/statistics.json', data, function(data) {
       var graph, legend, palette, x_axis, y_axis;
       palette = new Rickshaw.Color.Palette();
       $('#loading').remove();

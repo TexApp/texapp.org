@@ -1,6 +1,6 @@
 $().ready ->
   data = location.search.replace /^\?/, ''
-  $.getJSON '/stats.json', data, (data) ->
+  $.getJSON '/statistics.json', data, (data) ->
     palette = new Rickshaw.Color.Palette()
     $('#loading').remove()
     $('#statsForm').show()

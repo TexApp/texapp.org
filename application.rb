@@ -132,14 +132,14 @@ class TexAppOrg < Sinatra::Base
     }
   end
 
-  get '/stats' do
+  get '/statistics' do
     @from = Date.parse(params[:from], VALUE_FORMAT) rescue Date.today - 30
     @through = Date.parse(params[:through], VALUE_FORMAT) rescue Date.today
     @courts = params[:courts].map(&:to_i) rescue 1..14
-    haml :stats, :locals => {:d3 => true, :js => 'coffeescripts/stats.js' }
+    haml :statistics, :locals => {:d3 => true, :js => 'coffeescripts/statistics.js' }
   end
 
-  get '/stats.json' do
+  get '/statistics.json' do
     @from = Date.parse(params[:from], VALUE_FORMAT) rescue Date.today - 30
     @through = Date.parse(params[:through], VALUE_FORMAT) rescue Date.today
     @courts = params[:courts].map(&:to_i) rescue 1..14
