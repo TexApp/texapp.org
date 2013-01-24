@@ -47,8 +47,7 @@
 11:
   name: Eleventh Court of Appeals
   city: Eastland
-  scraper: OldSystemScraper
-  site: http://www.11thcoa.courts.state.tx.us
+  scraper: TAMESScraper
 12:
   name: Twelfth Court of Appeals
   city: Tyler
